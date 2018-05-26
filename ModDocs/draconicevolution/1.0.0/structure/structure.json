@@ -1,0 +1,152 @@
+{
+  "mod_id": "draconicevolution",
+  "mod_version": "1.0.0",
+  "alt_ids": [
+    "DraconicEvolution"
+  ],
+  "markdown": [
+    {
+      "mod_version": "version",
+      "file": "en_us-randHash.md"
+    }
+  ],
+  "pages": [
+    {
+      "id": "draconiumOre",
+      "name": "Draconium Ore",
+      "markdown": "draconiumOre_565d4.md",
+      "mod_versions": "<mod-version>",
+      "target_en_rev": 0,
+      "linked": [
+        "stack|draconicevolution:draconium_ore"
+      ],
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "minecraft:gold_ingot"
+        },
+        {
+          "type": "entity",
+          "icon_string": "minecraft:zombie"
+        },
+        {
+          "type": "image",
+          "icon_string": "http://ss.brandon3055.com/k5zf9uy.png"
+        }
+      ]
+    },
+    {
+      "id": "players",
+      "name": "Players",
+      "markdown": "players_ad8de.md",
+      "mod_versions": "",
+      "sorting_weight": 2,
+      "icons": [
+        {
+          "type": "entity",
+          "icon_string": "player:brandon3055",
+          "draw_slot": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_sword",
+            "off_hand": "minecraft:shield",
+            "head": "minecraft:leather_helmet",
+            "chest": "minecraft:iron_chestplate",
+            "legs": "minecraft:diamond_leggings",
+            "feet": "minecraft:gold_boots"
+          }
+        },
+        {
+          "type": "entity",
+          "icon_string": "player:covers1624",
+          "draw_slot": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_sword",
+            "off_hand": "minecraft:shield",
+            "head": "minecraft:leather_helmet",
+            "chest": "minecraft:iron_chestplate",
+            "legs": "minecraft:diamond_leggings",
+            "feet": "minecraft:gold_boots"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chaosGuardia",
+      "name": "Chaos Guardian",
+      "markdown": "chaosGuardian_6ee44.md",
+      "mod_versions": "",
+      "sorting_weight": 2,
+      "icons": [
+        {
+          "type": "entity",
+          "icon_string": "minecraft:zombie",
+          "draw_slot": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_sword",
+            "off_hand": "minecraft:shield",
+            "head": "minecraft:leather_helmet",
+            "chest": "minecraft:iron_chestplate",
+            "legs": "minecraft:diamond_leggings",
+            "feet": "minecraft:gold_boots"
+          }
+        },
+        {
+          "type": "entity",
+          "icon_string": "minecraft:ender_dragon",
+          "draw_slot": true
+        }
+      ]
+    },
+    {
+      "id": "fusionCrafting",
+      "name": "Fusion Crafting",
+      "markdown": "fusionCrafting_f7b2b.md",
+      "mod_versions": "",
+      "sorting_weight": 3,
+      "pages": [
+        {
+          "id": "core",
+          "name": "Fusion Crafting Core",
+          "markdown": "fusionCrafting/core_a2c94.md",
+          "mod_versions": "",
+          "linked": [
+            "stack|draconicevolution:fusion_crafting_core"
+          ],
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "minecraft:diamond_sworde",
+              "draw_slot": true
+            }
+          ]
+        },
+        {
+          "id": "injector",
+          "name": "Fusion Crafting Injector",
+          "markdown": "fusionCrafting/injector_df840.md",
+          "mod_versions": "",
+          "linked": [
+            "stack|draconicevolution:fusion_crafting_injector"
+          ],
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "minecraft:diamond_axee",
+              "draw_slot": true
+            },
+            {
+              "type": "stack",
+              "icon_string": "minecraft:gold_axe",
+              "draw_slot": false
+            },
+            {
+              "type": "stack",
+              "icon_string": "minecraft:iron_axe",
+              "draw_slot": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "mod_id": "draconicevolution",
+  "mod_version": "3.0.0",
+  "file": "draconicevolution_dc687.md",
+  "mod_aliases": [
+    "DraconicEvolution"
+  ],
+  "icons": [
+    {
+      "type": "stack",
+      "icon_string": "minecraft:torch,5"
+    },
+    {
+      "type": "stack",
+      "icon_string": "minecraft:redstone_torch,3"
+    },
+    {
+      "type": "entity",
+      "icon_string": "minecraft:sheep"
+    },
+    {
+      "type": "entity",
+      "icon_string": "player:covers1624"
+    }
+  ],
+  "cycle_icons": true,
+  "pages": [
+    {
+      "id": "draconiumOre",
+      "file": "draconiumOre_e06b5.md",
+      "cycle_icons": true,
+      "hidden": false,
+      "linked": [
+        "stack|draconicevolution:draconium_ore"
+      ],
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "minecraft:gold_ingot"
+        },
+        {
+          "type": "entity",
+          "icon_string": "minecraft:zombie"
+        },
+        {
+          "type": "image",
+          "icon_string": "http://ss.brandon3055.com/k5zf9uy.png"
+        }
+      ],
+      "pages": [
+        {
+          "id": "zdhzdfgh",
+          "file": "",
+          "cycle_icons": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "players",
+      "file": "players_62c75.md",
+      "cycle_icons": true,
+      "hidden": false,
+      "sorting_weight": 5,
+      "icons": [
+        {
+          "type": "entity",
+          "icon_string": "player:brandon3055",
+          "draw_slot": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_sword",
+            "off_hand": "minecraft:shield",
+            "head": "minecraft:leather_helmet",
+            "chest": "minecraft:iron_chestplate",
+            "legs": "minecraft:diamond_leggings",
+            "feet": "minecraft:gold_boots"
+          }
+        },
+        {
+          "type": "entity",
+          "icon_string": "player:covers1624",
+          "draw_slot": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_sword",
+            "off_hand": "minecraft:shield",
+            "head": "minecraft:leather_helmet",
+            "chest": "minecraft:iron_chestplate",
+            "legs": "minecraft:diamond_leggings",
+            "feet": "minecraft:gold_boots"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chaosGuardia",
+      "file": "chaosGuardia_8c55c.md",
+      "cycle_icons": true,
+      "hidden": false,
+      "sorting_weight": 2,
+      "icons": [
+        {
+          "type": "entity",
+          "icon_string": "minecraft:zombie",
+          "draw_slot": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_sword",
+            "off_hand": "minecraft:shield",
+            "head": "minecraft:leather_helmet",
+            "chest": "minecraft:iron_chestplate",
+            "legs": "minecraft:diamond_leggings",
+            "feet": "minecraft:gold_boots"
+          }
+        },
+        {
+          "type": "entity",
+          "icon_string": "minecraft:ender_dragon",
+          "draw_slot": true
+        }
+      ]
+    },
+    {
+      "id": "fusionCrafting",
+      "file": "fusionCrafting_7a62d.md",
+      "cycle_icons": true,
+      "hidden": true,
+      "sorting_weight": 3,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "minecraft:enchanting_table"
+        }
+      ],
+      "pages": [
+        {
+          "id": "core",
+          "file": "",
+          "cycle_icons": false,
+          "hidden": false,
+          "linked": [
+            "stack|draconicevolution:fusion_crafting_core"
+          ],
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "minecraft:diamond_sworde",
+              "draw_slot": true
+            }
+          ]
+        },
+        {
+          "id": "injector",
+          "file": "",
+          "cycle_icons": false,
+          "hidden": false,
+          "sorting_weight": 4,
+          "linked": [
+            "stack|draconicevolution:fusion_crafting_injector"
+          ],
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "minecraft:diamond_axee",
+              "draw_slot": true
+            },
+            {
+              "type": "stack",
+              "icon_string": "minecraft:gold_axe",
+              "draw_slot": false
+            },
+            {
+              "type": "stack",
+              "icon_string": "minecraft:iron_axe",
+              "draw_slot": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo_page",
+      "file": "demo_page_af029.md",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "sdf",
+      "file": "sdf_b1ead.md",
+      "cycle_icons": true,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "entity",
+          "hover_text": "This is some custom entity hover text",
+          "icon_string": "minecraft:zombie",
+          "track_mouse": true,
+          "equipment": {
+            "main_hand": "minecraft:diamond_pickaxe,1,600,{ench:[0:{lvl:1s,id:35s},1:{lvl:1s,id:34s},2:{lvl:1s,id:32s},3:{lvl:1s,id:70s}]}",
+            "off_hand": "minecraft:shield",
+            "chest": "minecraft:chainmail_chestplate",
+            "feet": "minecraft:golden_boots"
+          }
+        },
+        {
+          "type": "stack",
+          "icon_string": "draconicevolution:draconic_staff_of_power,1,0,{DEUpgrades:{digAOE:4b},Energy:48000000,ToolProfile:0b,Profile_0:{showDigAOE:0b,digDepth:0,digSpeed:100,aoeSafeMode:0b,digAOE:0,attackAOE:2.0d,junkNbtSens:1b,enableJunkFilter:1b},Profile_1:{showDigAOE:0b,digDepth:0,digSpeed:100,aoeSafeMode:0b,digAOE:0,attackAOE:2.0d,junkNbtSens:1b,enableJunkFilter:1b}}"
+        }
+      ]
+    },
+    {
+      "id": "sdfsd",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "sdfds",
+      "file": "sdfds_f786c.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "minecraft:skull,1,3,{SkullOwner:{Id:\"a2ff5ed5-81c5-4c5a-a22e-a16403c6eb79\",Properties:{textures:[0:{Signature:\"t0b8Tk5jKIbw+YeQQFz9v6Np5x632kWD62PLi6d4nC8MB3nEcoELXts4/EGis9DJDMS4ohk9aix3opdTRjUEcp4Lz6OsUtJQrzPXHSh1gfb0tYpH5UavkZIDE1lCyWRvRAwoSefW6w90o0RrhAx4GJlfdyu6TsOPSRnK+T82nUNPJb81ErQFlF5nqkXAjjq/tQ95oEPB0DQNE74p5anESxc/q587NPqPqlRw8glzWCJUoDkScbJCK+cvJ0O7P+wmF0WYB/Zm0ccJpBT88cSaaf6V2vjKhfHVPPLBgW+AvS4GI5Kn8NEVvlQGsFLU+AyDL+0fmFxsoUlk2tk2DuIQuyHpuCY8hcyLrWo5A2vbtpYW3WPqh9qqfYTiBdpjCV7Me+7J60FEmKqxyb5Xd21qa6gSP8flgnNaJsjXpPAc/2r3TYCq6F8C3c+LP3l1/fU1fGQC/LpRtuOcN0HFVGYwtTKoSCbMYenzeIVz5OjJfkHKOKyICdfsSD07HDC01y7akegliDWIYZ27Sc0mOGpYpPHWn/G/eYXchi5nwj3hzttGSWp43ralyp0/vtjlGvPjRifs1uoGQx3xP2now4Mu8QSzwn4s8uOm2SCn4tn5N8rLMALnuGPhVI3C2RGDMtuBwaPivnOMAVDDldDvH0jNhtoUWNpPyn093NhWYc/1JUE=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MTEyMzYxNjAwNDQsInByb2ZpbGVJZCI6ImEyZmY1ZWQ1ODFjNTRjNWFhMjJlYTE2NDAzYzZlYjc5IiwicHJvZmlsZU5hbWUiOiJNb3JwaGV1czExMDEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E0YTlmOTU1YzMyZWM2NWRkODk3NmJiZWYwMWZiN2QzN2IxMWNlOTJiYjRkOWQ1YTFjMjAzNTVkZmY5OTMifX19\"}]},Name:\"Morpheus1101\"}}"
+        }
+      ]
+    },
+    {
+      "id": "sdfdsf",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "sathzhtd",
+      "file": "sathzhtd_a52b6.md",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "fghjfg",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "rshdz",
+      "file": "rshdz_552f8.md",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "zdhfzdf",
+      "file": "zdhfzdf_686e4.md",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "dzfghaf",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "adfsh",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "m,dfgbdf",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "sdhdzf",
+      "file": "",
+      "cycle_icons": false,
+      "hidden": false
+    }
+  ]
+}

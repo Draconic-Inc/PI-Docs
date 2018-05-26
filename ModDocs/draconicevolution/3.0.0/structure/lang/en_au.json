@@ -1,0 +1,34 @@
+[
+  {
+    "page_uri": "draconicevolution:fusionCrafting",
+    "translation": "AU.Fusion Crafting",
+    "page_rev": 0,
+    "matches": {
+      "lang": "en_us",
+      "rev": 1
+    }
+  },
+  {
+    "page_uri": "draconicevolution:demo_page",
+    "translation": "AU.Demo Page",
+    "page_rev": 0,
+    "matches": {
+      "lang": "en_us",
+      "rev": 1
+    }
+  },
+  {
+    "page_uri": "draconicevolution:sdhdzf",
+    "translation": "AU.?",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:players",
+    "translation": "AU.Players",
+    "page_rev": 0,
+    "matches": {
+      "lang": "en_us",
+      "rev": 1
+    }
+  }
+]
