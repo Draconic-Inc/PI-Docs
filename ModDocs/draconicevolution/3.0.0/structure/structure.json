@@ -60,7 +60,7 @@
       "id": "players",
       "file": "players_62c75.md",
       "cycle_icons": true,
-      "hidden": false,
+      "hidden": true,
       "sorting_weight": 5,
       "icons": [
         {
