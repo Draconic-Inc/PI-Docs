@@ -1,0 +1,12 @@
+§align:center
+##### §nItem Name§n
+
+§stack[minecraft:stone]{size:64} 
+
+§rule{colour:0x606060,height:3,width:100%,top_pad:0}
+--Item Desctiption
+
+§rule{colour:0x606060,height:3,width:100%,top_pad:0}
+###### §nRecipe§n
+§recipe[minecraft:stone]{border_colour:0xc6c6c6}
+§rule{colour:0x606060,height:3,width:100%,top_pad:0}
