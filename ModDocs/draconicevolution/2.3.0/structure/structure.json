@@ -1060,6 +1060,11 @@
         {
           "type": "STACK",
           "content": "draconicevolution:energy_storage_core"
+        },
+        {
+          "type": "STACK",
+          "content": "draconicevolution:energy_pylon",
+          "ignore_meta": true
         }
       ],
       "icons": [
@@ -1124,6 +1129,17 @@
       "cycle_icons": true,
       "hidden": false,
       "sorting_weight": 120,
+      "relations": [
+        {
+          "type": "STACK",
+          "content": "draconicevolution:crystal_binder"
+        },
+        {
+          "type": "STACK",
+          "content": "draconicevolution:energy_crystal",
+          "ignore_meta": true
+        }
+      ],
       "icons": [
         {
           "type": "stack",
