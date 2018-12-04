@@ -1,3 +1,11 @@
+§rule{colour:0xFF0000,height:2,top_pad:0,bottom_pad:3,width:100%}
+§4The PI back end is not yet ready to handle user contributed documentation.
+§link[projectintelligence:people/covers1624]{alt_text:"covers1624"} is currently in the process of developing an automated system where once you as a contributor have been authorized you will be free to add and update documentation for your assigned mod(s). In order to be authorized you must ether be a developer or authorized by a developer of any mod who's documentation you wish to contribute to.
+
+In the mean time feel free to play with the editor and write documentation. 
+I do have the ability to manually add/update documentation if needed but i would prefer that you wait until the automated system is complete.
+§rule{colour:0xFF0000,height:2,padding:0,width:100%}
+
 For people who want to contribute by writing/updating/translating documentation.
 
 I will get around to writing proper documentation for this at some point but for now here is a brief step by step guide.
