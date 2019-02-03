@@ -1,24 +1,24 @@
 §align:center
-##### §nAdvanced Dislocator§n
+##### §n高级传送符咒§n
 
 §stack[draconicevolution:dislocator_advanced]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Learning how draconic powers interact with the powers of the endermen, you have created the ultimate teleporter.
+在了解龙之力与末影之力后，你制作出了高级传送符咒。
 
-You can now store up to 100 locations and use the endermen’s own pearls as fuel.
+你现在可以存储多达100个地点以及使用末影珍珠作为燃料来传送。
 
-This device can teleport you extreme distances - even across dimensions - at will.
+这个装置可以使你任意传送，甚至跨维度。
 
-Shift + right click to open the GUI. Most functionality should be self-explanatory.
+Shift+右键打开GUI，GUI里将会告诉你一切。
 
-On the left is the destination list. Each destination has a lock button that prevents you from accidentally overwriting or deleting it.
+左边是地点列表。每个地点都有一个锁定按钮，防止您意外地覆盖或删除它。
 
-Right-clicking a destination in the list will teleport you to it without actually selecting the destination.
+在列表中右键单击目标将传送到那里。
 
-On the right, starting from the top, you have information about the selected destination, an option to rename the selected destination, an option to change the selected destination to your current coordinates and an option to delete the selected destination.
+在右侧，自上而下是：您所选地点的信息、重命名所选地点、将所选地点坐标更改为当前坐标以及删除所选地点的选项。
 
-Under that is the fuel, an option to teleport to the selected destination, an option to add your current location as a new destination, and an option to add Ender Pearls from your inventory to be used as fuel (shift + click to add a stack).
+在这个选项下面是燃料数，一个传送到所选地点的选项，一个将当前位置添加为新地点的选项，以及一个将身上的末影珍珠添加到燃料槽的选项(Shift+点击来添加一组)。
 
 You can also shift + scroll with the item in your hand to cycle through the destinations without opening the GUI or right-click to teleport to the current destination.
 
