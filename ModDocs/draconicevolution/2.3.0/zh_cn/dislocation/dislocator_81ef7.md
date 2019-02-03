@@ -1,14 +1,14 @@
 §align:center
-##### §nDislocator§n
+##### §n传送符咒§n
 
 §stack[draconicevolution:dislocator]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-You have managed to infuse the powers of The End with your knowledge of the Draconic to create a basic teleporter, but at a cost.
+你已经成功地制作了一个基本的传送符咒，但这是有代价的。
 
-The energies binding them are unstable and only last for 10 uses, and will take some of your life energy with each use 
+它们的能量是不稳定的，只能使用10次，每次使用都会消耗你生命。
 
-It can only be linked to a single location but works across dimensions. Once used up, you must create a new one.
+它只能绑定到一个位置，但可以跨维度工作。一旦用完，您必须制作一个新的。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:dislocator]{spacing:2}

@@ -1,20 +1,20 @@
 §align:center
-##### §nDislocator Pedestal§n
+##### §n传送符咒基座§n
 
 §stack[draconicevolution:dislocator_pedestal]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-You have figured out how to create a simple pedestal on which you can place your Basic or Advanced Charms of Dislocation.
+你已经知道如何制作一个简单的底座，你可以把你的传送符咒放在上面。
 
-Simply right-click with a Charm in your hand to place it on the pedestal, then right-click the pedestal to teleport.
+简单地在底座上用鼠标右键你手上的符咒，把它放在底座上，然后右键点击底座来传送。
 
-The advantage of this is that the Charms won't take damage or use fuel. The disadvantage is you cannot bring them with you to your destination.
+这样做的好处是咒语不会受到伤害，也不会消耗燃料。缺点是你不能把它们带到你的目的地。
 
-To remove the charm from the pedestal simply shift + right-click with an empty hand.
+要从底座上拿走符咒，只需用空手按住shift +右键。
 
-When it is holding a Basic Charm of Dislocation that has been renamed in an anvil or an Advanced Charm of Dislocation with a destination set either the name or destination will be displayed above the pedestal respectively.
+当它上面放着一个用铁砧重命名的传送符咒或一个带有目标集的高级传送符咒时，底座上方将分别显示名称或目标。
 
-If you hold shift all names will be hidden except the one you are looking at. (Shift behavior can be reversed in the config)
+如果你按住shift键，所有的名字都会被隐藏，除了你正在看的名字。(可以在配置文件中改变按住Shift时的显示)
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:dislocator_pedestal]{spacing:2}

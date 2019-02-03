@@ -1,19 +1,17 @@
 §align:center
-##### §nItem Dislocator§n
+##### §n物品传送符咒 §n
 
 §stack[draconicevolution:magnet]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Using the teleportation power of a dislocator you have found a way to teleport items dropped in the world directly into your inventory!
-The range of this dislocator is 8 blocks.
+使用传送器的传送能力，你已经找到了一种直接将掉落在世界上的物品传送到你的背包中的方法。
+范围：8格
 
-To activate, simply shift+right click.
+使用Shift+右键可以激活或关闭它。
 
-§6Quality Of Life features§r
-Holding shift will temporarily disable the dislocator.
-If another player is within 3 blocks of an item and they are closer to it than you are the dislocator will not collect it.
-When you throw an item the dislocator will wait for its pick up delay to expire before collecting it again. (Meaning you can actually throw items to other players now!)
-
+§6特点§r
+当该物品放在身上时，可以按住shift暂时关闭它。
+并且当它所传送（吸）的物品位于另一位玩家的3格范围内时，并且你离物品的距离大于另一个玩家时，它会无法传送（吸）该物品。(这意味着你现在可以把物品扔给其他玩家了！)
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:magnet]{spacing:2}

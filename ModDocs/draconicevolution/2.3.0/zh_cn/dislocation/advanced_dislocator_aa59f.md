@@ -20,13 +20,13 @@ Shift+右键打开GUI，GUI里将会告诉你一切。
 
 在这个选项下面是燃料数，一个传送到所选地点的选项，一个将当前位置添加为新地点的选项，以及一个将身上的末影珍珠添加到燃料槽的选项(Shift+点击来添加一组)。
 
-You can also shift + scroll with the item in your hand to cycle through the destinations without opening the GUI or right-click to teleport to the current destination.
+你还可以使用Shift+滚轮来选择地点，从而在不打开GUI的情况下遍历地点，或者右键单击以传送到当前地点。
 
-You can also teleport players and mobs by left-clicking them - however, players must be holding shift and mobs cannot be teleported across dimensions.
+你也可以通过左键点击来传送玩家和怪物。——但是，玩家必须按住shift键，怪物不能跨维度传送。
 
-It is possible to transfer locations between dislocators. Simply place an advanced dislocator and a basic or another advanced dislocator in the first and second slots of a crafting grid to transfer a location from the dislocator in slot 1 to the dislocator in slot 2.
+在传送符咒之间转移配置是可能的。将一个传送符咒和另一个传送符咒放置在工作台的第一和第二格中，以便将配置从第一格中的传送符咒转移到第二格中的传送符咒。
 
-When transferring from a basic to advanced dislocator the location will be given the name "*Copy*" When going from advanced to basic the currently selected location in the advanced dislocator will be set as the bound location in the basic dislocator.
+当从传送符咒转移到高级传送符咒时，位置将被赋予名称“*Copy*”，当从高级传送符咒转移到基本传送符咒时，当前在高级传送符咒中选择的位置将被设置为传送符咒中的绑定位置。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:dislocator_advanced]{spacing:2}
