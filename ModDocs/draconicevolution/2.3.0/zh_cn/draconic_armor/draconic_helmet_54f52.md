@@ -6,13 +6,13 @@
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §bStats
 
-Night Vision (Configurable)
-Cures negative potion effects
-Bypass suffocation and drowning damage
-Removes mining slowdown underwater (Aqua Affinity)
-+60 Base Shield Capacity
-+3 Armor Toughness
-+3 Armor
+夜视(可开关)
+消除DEBUFF
+消除窒息和溺水伤害
+消除在水中挖掘的减速(水下速掘)
++60护盾
++3盔甲韧性
++3护甲
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconic_helm]{spacing:2}
