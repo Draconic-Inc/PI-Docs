@@ -2,7 +2,7 @@
 ##### §n龙堆的基本操作§n
 只是最基本的。我保证。
 
-As the name implies this guide is going to give you the bare minimum information you need to understand how this reactor works.
+顾名思义，本指南将为您提供了解该反应堆工作原理所需的最基本信息。
 §rule{colour:0x606060,height:3,width:100%}
 //========================================================
 Lets start by taking a look at the reactor GUI.
