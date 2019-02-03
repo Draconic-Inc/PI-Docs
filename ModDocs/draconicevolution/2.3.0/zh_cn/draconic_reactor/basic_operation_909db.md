@@ -1,6 +1,6 @@
 §align:center
-##### §nDraconic Reactor Basic Operating Pronciple§n
-Just the basics. I promise.
+##### §n龙堆的基本操作§n
+只是最基本的。我保证。
 
 As the name implies this guide is going to give you the bare minimum information you need to understand how this reactor works.
 §rule{colour:0x606060,height:3,width:100%}
@@ -9,81 +9,80 @@ Lets start by taking a look at the reactor GUI.
 §img[http://ss.brandon3055.com/b7494]{width:50%}
 
 §align:left
-In the top section there are 4 gages that give critical information about the reactor status. From left to right they are: 
+在顶部部分有4个计量条，提供了关于反应堆状态的关键信息。从左到右是：
 §rule{height:3,padding:0}
-§nTemperature:§n Pretty self explanitory this is the temperature of the core. Keep this bellow 8000 and you are golden!
+§n温度：§n这是核心的温度。保持在8000以下，你就是胜利者！
 §rule{height:3,padding:0}
-§nShield Strength:§n This is the strength of the shield preventing the reactor from exploding! You will want to find a nice balance for this. To high and the shield will consume more power than the reactor generates. To low and you risk §4catastrophic faliure§4.
+控制场强度：§n这是阻止反应堆爆炸的控制场的强度！你需要找到一个很好的平衡点。高的场强会消耗比反应堆产生的更多的能量。如果降低，你将面临灾难性的后果§4。
 §rule{height:3,padding:0}
-§nSaturation:§n This is how much energy is stored in the reactor core.
+§n能量：§n这是反应堆核心储存的能量。
 §rule{height:3,padding:0}
-§nFuel Conversion Level:§n This shows how much fuel you have burned through. Just keep in mind you never want this to hit 100% or you will have a §4catastrophic overload§4 on your hands!
+§n燃料消耗程度：§n这显示了你已经消耗了多少燃料。只要记住，你永远都不要希望它达到100%，否则你就会面临§4灾难性的结果§4！
 §rule{colour:0x606060,height:1,width:100%}
-In the lower section you have.
+下面的部分：
 §rule{height:3,padding:0}
-§nCore Volume:§n This indicates the size of the reactor and is based on how much fuel you gave the reactor before starting it. 
-§rule{height:3,padding:0}
-//
-§nGeneration Rate:§n This is the rate at which the reactor is currently generating energy.
+§n核心体积：§n这代表了反应堆的大小，基于你在启动之前给了反应堆多少燃料。
 §rule{height:3,padding:0}
 //
-§nField Input Rate:§n This is the energy input required to maintain the current shield strength. The lower the shield strength the less energy is required to maintain it.
+§n产率：§n这是反应堆当前产生能量的速率。
 §rule{height:3,padding:0}
 //
-§nFuel Conversion Rate:§n This is how fast the reactor is currently consuming fuel. It is measured nano buckets (1/1000th if a milli bucket) per tick.
+§n控制场能量输入速率：§n这是维持当前场强所需的能量输入。控制场强度越低，维持所需的能量就越少。
+§rule{height:3,padding:0}
+//
+§n燃料输入速率：§n这是反应堆目前消耗燃料的速度。
 
 §rule{colour:0x606060,height:3,width:100%}
 //========================================================
-So now that you hopefully understand the GUI allow me to explain how the reactor works. It will be easier if i break this down into its different operating states (displayed in the UI as Status)
+现在你已经了解了GUI，允许我解释一下，反应堆是如何工作的。如果我把它分解成不同的操作状态会更简单(在UI中显示为状态)
 §rule{colour:0x606060,height:1,width:100%}
 //--------------------------------------------------------------------------------------------------
-####### §nOffline
+####### §n离线
 
-This state is pretty selve explanitory. The reactor is completely inactive. §cIt should be noted this is the only state in which it is safe to dismantle the reactor!§c
+这种状态很容易解释。反应堆完全不活动了。§c这是安全拆除反应堆的必须的状态！§c
 §rule{colour:0x606060,height:1,width:100%}
 //--------------------------------------------------------------------------------------------------
-####### §nWarming Up
+####### §n充能中
 
-This is where the reactor requires a substantial amount of power in order to start up. In this mode the reactor will accept power via the energy injector. First it will charge the shield to 50% capacity, Next it will charge the core to 50% saturation and finally it will heat the core to 2000 degrees. At that point the reactor is ready to be activated.
+这是反应堆启动时的状态。 在这种状态下，反应器将通过能量注入器接受能量。首先它会给控制场充能到50%，然后它会给核心充能到50%，最后它会把核心加热到2000度。这时，反应堆就可以启动了。
 §rule{colour:0x606060,height:1,width:100%}
 //--------------------------------------------------------------------------------------------------
-####### §nOnline
+####### §n运行
 
-Now that your reactor is running you must maintain a balance between the amount of energy you supply the containment field and the amount of energy you extract.
+现在你的反应堆正在运行，你必须在你提供给控制场的能量和你提取的能量之间保持平衡。
 
-The more power you pull from the reactor the more the reactors saturation will dropp. The reactor will compensate for this by increating its generation rate to match the rate at which you are extracting energy.
+你从反应堆中提取的能量越多，反应堆中的能量就会下降得越多。反应堆将通过增加它的生成速率来补偿这一点，以匹配你提取能量的速率。
 
-As the generation rate increases so does the reactor core temperature. This results in an increased load on the containment field that will result in a drop in containment field strength. If the core temperature goes beyond 8000c the containment field load will start to increas exponentially. At best resulting in horrible efficiency, at worst resulting in §4catastrophic faliure§4.
+随着生成速率的增加，反应堆堆芯温度也随之增加。这将导致控制场的负载增加，从而导致控制场的强度下降。如果堆芯温度超过8000摄氏度，控制场的载荷将开始呈指数增长。在最好的情况下将导致可怕的效率，在最坏的情况下将导致§4灾难性的后果§4。
 
-The higher the core temperature the faster the reactor will burn fuel. The fusion of draconium in the core of the reactor produces the chaos element (the same element found in the center of a chaos island) 
+堆芯温度越高，反应堆燃烧燃料的速度就越快。在反应堆核心的觉醒元素聚变产生了混沌元素(与混沌岛中心发现的元素相同)
 
-As the level of chaos within the core increases so does the reactivity of the draconium. This higher reactivity increases the efficiency of the reactor and means that over time as the fuel is converted you will be able to pull more and more power from the reactor while maintaining a stable temperature. This will increas to several million RF/t before you need to refule the reactor.
+随着核内混沌元素的增加，龙堆的反应性也随之增加。这种更高的反应性提高了反应堆的效率，这意味着随着时间的推移，随着燃料的转化，你将能够从反应堆中获得越来越多的能量，同时保持一个稳定的温度。这将输出几百万RF，在你补充燃料前。
 
-§4[WARNING]§4 You MUST shut down and refuel the reactor BEFORE the conversion level reaches 100%! The chaos element is highly unstable and without some amound of draconoum in the core it can not be regulated. This will result in a runaway thermal reaction that can not be stopped! The core temperature increase uncontrollably until the containment field fails resulting in a catastrophic explosion.
+§4[警告]§4在消耗水平达到100之前，你必须关闭反应堆并补充燃料！混沌元素是高度不稳定的，如果核心没有一定数量的觉醒元素，它就无法被控制。这将导致无法阻止的失控热反应！堆芯温度不受控制地升高，直到容器场失效，导致灾难性爆炸。
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
-####### §nStopping
+####### §n停止中
 
-§4[WARNING]§4 Before you shut down your reactor make sure you have a significant backlog of power to supply the containment field while it shuts down!
+§4[警告]§4在你关闭反应堆之前，确保在它关闭的时候，你有大量的能量储备来供应控制场！
 
-When you hit the stop button the reactor will immediately stop producing outputing power and start the shutdown process. This requires the reactor to charge its saturation to near 100% thus allowing the generation rate to drop which in tern allows the temperature to drop. Once the saturation passes around 99% the temperature will dropp bellow 2000c, fusion will cease and the reactor will enter the cool down mode. 
-
+当你按下停止按钮，反应堆将立即停止生产输出功率，并开始关机过程。这就要求反应器将其能量积蓄到接近100%，从而使生成速率下降，从而使温度下降。一旦饱和度超过99%，温度将降至2000摄氏度以下，聚变将停止，反应堆将进入冷却模式。
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
-####### §nCooling Down
+####### §n冷却中
 
-At this point fusion has stopped and the containment field can shut down. Once the core cools sufficiently you will be able to refuel or dissmantle the reactor.
+此时聚变已经停止，控制场可以关闭。一旦堆芯冷却到足够低的温度，你就可以给反应堆补充燃料或者拆除它。
 
 §4[WARNING]§4 Even now its still not safe to dismantle the reactor until the temperature drops bellow 300c! If you do... well fusion has stopped at this point so the result wont exactly be nuclear but dropping a giant ball of super heated draconium on the floor will still make one hell of a mess!
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
-####### --§nExplosion Imminent§n!!!--
+####### --§n即将爆炸§n!!!--
 
-So this is the status message you never want to see. If you do end up in this situation... Well... I can only hope you have a good pair of running shoes!
+这是你永远不想看到的状态信息。如果你真的陷入这种情况……嗯…我只希望你有一双好的跑鞋！
 
-This mode is also pretty selfe explanatory. Its about to go BOOM! It will take anywere from a few seconds to several minutes to calculate exactly how long you have before detonation. Once that calculation is complete the GUI will give you a nice little ETA. This will usually be around a minute or two but you really shouldn't stick around to watch the fireworks...
+这种模式本身也很好解释。快爆炸了！这将花费从几秒到几分钟的时间来精确计算爆炸前的时间。一旦计算完成，GUI会给你一个很好的逃跑倒计时。这通常需要一到两分钟，但你真的不应该呆在这里看烟花……
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 //========================================================

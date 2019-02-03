@@ -1,31 +1,29 @@
 §align:center
-##### §nRegulation and Safety Systems§n
-So you have a working reactor. Now its time to make sure it does not explode!
+##### §n规划及安全系统§n
+所以你有一个工作的反应堆。现在是时候确保它不会爆炸了！
 §rule{colour:0x606060,height:1,width:100%}
-There are a number of ways you can manage your reactor. The first being to just do it manually. This is fine in theory, as long as you get a stable balance between power supplied to the field and power extracted from the core it "should" be fine... As the core burns through its fuel and the effiency increases the shield strength should only increase. But if you want to be able to tweak your power settings to get more from your reactor as its efficency increases, or even if you dont its nice to have some system to help prevent a nasty explosion.
+有很多方法可以管理你的反应堆。第一个是手动操作。这在理论上是可行的，只要你能在提供给磁场的能量和从核心中提取的能量之间取得稳定的平衡，就应该没问题……随着堆芯燃料的燃烧和效率的提高，屏蔽强度只会增加。但是，如果你想要随着反应堆效率的提高，调整你的功率设置，从反应堆中获得更多的能量，或者你希望有一些系统来帮助防止可怕的爆炸，这也很好。
 
 §rule{colour:0x606060,height:1,width:100%,padding:0}
 
-######§nRedstone Control
-Yes you can regulate your reactor using nothing but vanilla redstone! though using a mod like project red can make things a lot cleaner!
+######§n红石控制
+是的，你可以只用原版红石来调节你的反应堆!尽管使用像project red这样的mod可以让东西更干净！
 
-Redstone regulation can be achived by using comparators to read stats like shield strength and then use ing that signal to adjust flux gates.
+通过使用比较器读取屏蔽强度等数据，然后使用该信号来调整能量阀门，可以实现红石调节。
 
-You can attach a comparator to any of the stabilizers or the injector. Opening the if you open the UI of the component you will be able to set the comparator behavior for that specific component.
+你可以在任何一个稳定器或注入器上附加一个比较器。如果您打开UI，您将能够为该特定组件设置比较器的检测内容。
 
-Its also a good idea to have a comparator reading the fuel conversion level. Use that to shut down the reactor using fail-safe mode when the conversion level gets to high.
+让一个比较器读取燃料转换级别也是一个好主意。当转换水平高时，用它来关闭反应堆，使用自动防故障模式。
 
 
 §rule{colour:0x606060,height:1,width:100%,padding:0}
 
-######§nComputer Control
-If you know how to program in lua you can take things a step further and control your reactor with Open Computers or Computer Craft!
-
-Attaching a computer to a stabilizer or energy injector exposes 5 methods.
+######§n计算机控制
+如果你知道如何在lua中编程，你可以更进一步，用OC或CC来控制你的反应堆
 
 §ngetReactorInfo
 §rule{height:3,padding:0}
-This returns a table containing the following
+这将返回一个包含以下内容的列表：
 temperature
 fieldStrength
 maxFieldStrength
@@ -41,25 +39,25 @@ failSafe
 
 §nchargeReactor
 §rule{height:3,padding:0}
-Calling this is equivelent to pressing the Charge button in the GUI.
+调用它相当于在GUI中按下充能按钮。
 
 §nactivateReactor
 §rule{height:3,padding:0}
-Calling this is equivelent to pressing the Activate button in the GUI.
+调用它相当于在GUI中按下激活按钮。
 
 §nstopReactor
 §rule{height:3,padding:0}
-Calling this is equivelent to pressing the Shut Down button in the GUI.
+调用它相当于在GUI中按下关机按钮。
 
 §nsetFailSafe
 §rule{height:3,padding:0}
-This allows you to enable/disable failsafe mode.
+这允许你开关自动防故障模式。
 
  
-You can also control the flux gates directly with your computer. Check out the §link[draconicevolution:flow_gates]{alt_text:"Flux Gate"} page for more information.
+你也可以直接用电脑控制能量阀门。查看§link[draconicevolution:flow_gates]{alt_text:"Flux Gate"}获取更多信息。
  
 §rule{colour:0x606060,height:3,width:100%,padding:0}
 
-A word of warning. As unlikely as it is make sure you dont consume power from your storage system faster then the reactor can generate it. If you run out of power you wont be able to maintain your reactors shield strength. I recommend using a third flux gate to regulate how much power is extracted from the core by your base and anything else that is using power. Keep that gate set lower than the generation rate - field input rate of your reactor.
+一句警告的话。尽管不太可能，但要确保你的存储系统消耗电力的速度不会比反应堆产生电力的速度快。如果你耗尽电力，你将无法维持反应堆的控制场强度。我建议使用第三个磁通门来调节你的设施和其他任何使用能量的东西从核心中提取的能量。保持门的设置低于产生率-控制场输入率。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}

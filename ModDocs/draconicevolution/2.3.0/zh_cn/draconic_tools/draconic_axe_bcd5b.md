@@ -1,20 +1,20 @@
 §align:center
-##### §nDraconic Axe§n
+##### §n神龙斧§n
 
 §img[http://ss.brandon3055.com/a862d]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §b§nStats
 
-§616 Million RF capacity upgradable to 256 Million.
+§6储能：16.0M RF 升级后256M RF
 
-§63x3 base mining AOE. Upgradable to 9x9
+§6挖掘范围：1×1，3×3，9×9（升级后）
 
-§63 block dig depth. Upgradable to 9
+§6挖掘深度：1-3,1-9（升级后）
 
-§6Tree Harvesting
-When enabled simply hold right click on the base of a tree and this axe will quickly block by block harvest the entire tree.
-This axe can harvest up to 8192 blocks at a time. 
+§6淦树
+当启用时，只需在树的底部按住右键，这把斧头将快速地砍掉整棵树。
+这把斧头一次可以砍下8192块木头。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconic_axe]{spacing:2}

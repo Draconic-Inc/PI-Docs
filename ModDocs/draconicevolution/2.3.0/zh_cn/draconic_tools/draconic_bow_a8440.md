@@ -1,44 +1,40 @@
 §align:center
-##### §nDraconic Bow§n
+##### §n神龙弓§n
 
 §img[http://ss.brandon3055.com/8904c]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-The bows in Draconic Evolution are very powerful with many different configurable settings.
+神龙弓非常强大，有许多不同的设置。
 
-§64 Million RF capacity upgradeable to 32 Million.
+§6储能：4M RF 升级后：64M RF
 
-§6Arrow damage: base 3, Upgradable to 9
+§6箭矢伤害：基础为3，升级后为9
 
-§6Arrow Velocity: base +200%, Upgradable to +500%
+§6箭矢速度：基础+200%，升级后+500%
 
-§6Auto Fire Mode
-Will automatically fire when the bow is fully charged.
+§6自动射击
+拉满弦时自动射击
 
-§6Explosion Power
-Allows you to make your arrow explosive.
-Max power is equivalent to TNT
+§6爆炸威力
+允许你调节你的箭矢的爆炸威力。
+最大威力相当于TNT。
 
-§6Arrow of Draconic Fire
-Switch to firing an arrow composed of pure Draconic energy!  
-This is essentially the same as infinity but also increases damage.
-And allows some other features.
+§6龙火之矢
+发射出由纯粹的能量构成的箭矢。不再需要箭矢，同时解锁了冲击波的效果。
 
-§6Shock Wave Power
-This creates a shockwave that deals damage similar to an explosion but more powerful and without damaging blocks.
-Only available with Arrow of Draconic Fire
+§6冲击波
+击中敌人后会产生一股冲击波，与同等范围的爆炸相比，冲击波造成的伤害更高，而且不会破坏方块。
 
-§6Magnification
-Allows you to zoom in on the target to increase your accuracy
+§6瞄准
+能够提高远距离射击时的精准度。
 
-§aInfo
-Damage is calculated by multiplying arrow velocity with arrow damage with some randomness involved.
+§a信息
+伤害的计算方法是将箭速与具有一定随机性的箭损伤相乘。
 
-The energy required per shot is calculated by multiplying damage, velocity and explosion power.
-This means that just setting all 3 to maximum will require an enormous amount of power per shot.
+每一箭所需的能量是通过乘以伤害、速度和爆炸功率计算出来的。
+这意味着，仅仅将所有3个设置为最大，将需要大量的能量。
 
-Shock Wave is only compatible with Arrow Of Draconic Fire.
-And explosive is not compatible with Arrow Of Draconic Fire
+爆炸和龙火之矢是不兼容的
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconic_bow]{spacing:2}
