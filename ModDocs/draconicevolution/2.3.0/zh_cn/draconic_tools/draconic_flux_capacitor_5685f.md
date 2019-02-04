@@ -1,10 +1,10 @@
 §align:center
-##### §nDraconic Flux Capacitor§n
+##### §n神龙通量容器§n
 
 §stack[draconicevolution:draconium_capacitor,1,1]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-This capacitor is similar to the §link[draconicevolution:wyvern_tools/wyvern_flux_capacitor]{alt_text:"Wyvern Flux Capacitor"} except it has a base capacity of 256 Million RF and can be upgraded to 640 Million.
+这个物品就像§link[draconicevolution:wyvern_tools/wyvern_flux_capacitor]{alt_text:"Wyvern Flux Capacitor"}一样，基础可存256M RF，升级后可存640M RF.
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconium_capacitor,1,1]{spacing:2}

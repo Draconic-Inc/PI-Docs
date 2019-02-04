@@ -1,27 +1,25 @@
 §align:center
-##### §nDraconic §n
+##### §n神龙之力权杖§n
 
 §img[http://ss.brandon3055.com/ff9df]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-The staff of power is one of the mods powerful items in Draconic Evolution.
-It is both a mining tool and a powerful weapon with similar abilities to the Draconic Sword.
-But Stronger!
+神龙之力权杖是龙之进化中最强大的装备之一。
+它既是一种挖掘工具，也是一种强大的武器，其能力与龙之剑类似。但更NB！
 
 §b§nStats
 
-§648 Million RF capacity upgradeable to 768 Million.
+§6基础可存48M RF，升级后可存768M RF.
 
-§65x5 base mining AOE. Upgradable to 11x11
+§6基础范围：5×5升级后：11×11
 
-§65 block dig depth. Upgradable to 11
+§6基础深度：5升级后：11
 
-§660 base Attack. Upgradable to 105
-It should be noted that because this is such a large heavy weapon the attack speed is fairly slow.
+§660点基础攻击。升级后为105点
+需要注意的是，由于这是一种重型武器，所以攻击速度相当慢。
 
-§65x5 base attack radius. Upgradable to 17x17
-Note the AOE attack only works when the sword is fully charged.
-(Referring to the new vanilla charging mechanic)
+§6基础攻击范围：5×5升级后攻击范围：17×17
+注意:AOE攻击只在剑有电的情况下有效。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconic_staff_of_power]{spacing:2}

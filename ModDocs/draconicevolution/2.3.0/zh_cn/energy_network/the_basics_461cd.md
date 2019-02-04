@@ -1,39 +1,38 @@
 §align:center
-##### §nThe Basics§n
+##### §n基础§n
 §stack[draconicevolution:crystal_binder]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-The Draconic Evolution energy network is unlike any other. Both visually and functionally it is unique.
+龙之进化的能量网络不同于其他mod的。无论是视觉上还是功能上，它都是独一无二的。
 
-Before you get started messing with this system you will need a Crystal Binder.
+在你开始搞乱这个系统之前，你需要一个水晶绑定扳手。
 
-The DE energy network is comprised of "Energy Crystals." Each energy crystal has an internal energy buffer and crystals can be linked to one another using a Crystal Binder. When 2 or more crystals are linked, they will attempt to balance their stored energy so they are both at the same charge level. Each crystal can only support a certain number of connections to other crystals. The exact number of connections is determined by the type and tier of the crystal.
+能量网络由“能量水晶”组成。每个能量水晶都有一个内部能量缓冲槽，水晶可以用水晶绑定扳手相互连接。当两个或两个以上的水晶连接在一起时，它们会试图平衡它们储存的能量，使它们有相同的能量储量。每个水晶只支持一定数量的连接。连接的确切数量由水晶的类型和等级决定。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-######§nLinking
-In order to link a crystal to another crystal or some other valid device simply shift-right-click on one of the crystals with a binder, which will save that crystal to the binder. Then simply right-click the target block to create a link. The binder will remember the block it is bound to until you bind it to another block or shift-right-click the air.
+######§n链接
+将一个水晶链接到另一个水晶或其他有效设备，只需使用水晶绑定扳手在其中一个水晶上单击鼠标右键，将该水晶保存到水晶绑定扳手中。然后右键单击目标水晶以创建链接。水晶绑定扳手将记住它绑定到的水晶，直到您将其绑定到另一个水晶或shift+右键单击空气。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 ######§nGUI
-When you look at a crystal the DE HUD will give you information about its links and energy flow. Right clicking on a crystal will display its GUI, in which you will see a list of all linked devices as well as the energy flow to each one. Clicking on an item in the list will give you the option to identify a link using a red beam between the crystal and the target device, as well as an option to break the link. There is also a button at the top of the list that allows you to clear all links.
-
+当你指向一个水晶的时候，DE HUD会给你关于它的链接和能量的信息。右键单击水晶将显示其GUI，在其中您将看到所有链接设备的列表以及每个设备的能量。单击列表中的一个项目提供使用水晶和目标设备之间的红色光束识别链接的选项，以及断开链接的选项。列表顶部还有一个按钮，可以清除所有链接。
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-######§nCrystal Types
-There are 3 types of crystals. Energy I/O, Energy Relay and Wireless Energy.
+######§n水晶种类
+有三种水晶：能量端口水晶、能量中继水晶、无线能量水晶
 
-§6Energy I/O:§r
-This is the crystal you will use to insert and extract energy from your crystal network. To use this crystal, simply place it on the side of your energy source/consumer and connect it to your crystal network. This crystal has 3 I/O modes which you can cycle between by shift right clicking with an empty hand. Input, Output, and Balance. Input will make the crystal accept energy from the block it is attached to and output will attempt to send energy to the attached block. Balance mode is not yet fully implemented but is meant for use with energy conduits from other mods. This functionality needs to also be supported by the other mod and thus may not work with all conduits. This crystal type only supports a very limited number of connections to other crystals.
+§6能量端口水晶：§r
+这是你用来输入和从你的水晶网络输出能量的水晶。要使用这种水晶，只需把它贴在你的能源的一面，然后链接进水晶能源网络。这个水晶有三种模式，空手Shift右键来切换。输入、输出和输入+输出。输入将使水晶接受能量，输出将尝试发送能量到所连接的水晶。平衡模式还没有完全实现，但是可以与其他mod的能源管道一起使用。该功能还需要得到其他mod的支持，因此可能不能与所有管道一起工作。这种水晶类型只支持非常有限数量的与其他水晶的连接。
 
-§6Energy Relay§r
-This crystal is meant to act as a hub to which you can connect other crystals. Therefore it supports a lot more connections than the I/O crystal. This crystal can only link to other crystals and cannot be connected to other blocks.
+§6能量中继水晶：§r
+这个水晶作为一个枢纽，用来连接到其他水晶。这可以链接到能量端口水晶。这种水晶只能连接到其他水晶，不能连接到其他方块。
 
-§6Wireless Energy§r
-This crystal is similar to the energy relay except that it supports fewer crystal links, but can wirelessly connect to a number energy receivers. This connection can supply or receive power from devices depending on the crystals i/o mode. The max energy flow is lower than that of the I/O Crystal. The advantage of this crystal is that it supports a large number of connections, meaning you could place one in the middle of your workshop and have it power most, if not all, of your machines. Or place it in the middle of your power pland and have it pull power from all of your generators.
+§6无线能量水晶：§r
+这种水晶类似于能量继电器，只是它支持更少的水晶链接，但可以无线连接到多个方块。这种连接可以根据水晶能量储量从设备上输入或输出电力，但能力比能量端口水晶弱。这种水晶的优点是它支持大量的连接，这意味着你可以把一个放在你的房间的中间，让它为你的机器提供大部分的能量，如果不是全部的话。或者把它放在你的发电机房中央，让它从你所有的发电机上获取能量。
 
-Note: See the page for each crystal type for a full list of stats. 
+注意:有关每种水晶类型的完整统计信息列表，请参见该页。
 
-§6Energy Visualization§r
-When energy is flowing between two crystals it can be visualized by a beam of energy the intensity of which roughly indicates the rate at which energy is flowing. When energy is flowing from a wireless energy crystal to a block, the energy flow is indicated by a stream of particles the density and speed of which roughly indicates the rate at which energy is flowing.
+§6可视化§r
+当能量在两个水晶之间流动时，可以用一束能量来表示，其强度大致表示能量流动的速度。当能量从无线能量水晶流到方块时，能量流由粒子流表示，粒子流的密度和速度大致表示能量流动的速度。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:crystal_binder]{spacing:2}

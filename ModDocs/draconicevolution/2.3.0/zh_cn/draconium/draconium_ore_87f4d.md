@@ -1,9 +1,8 @@
 §align:center
-##### §nDraconium Ore§n
+##### §n龙矿§n
 
-Draconium ore has 3 types found in different dimensions. Each type 
-drops a different amount of draconium dust when harvested.
-Draconium ore is best harvested with fortune 3.
+龙矿在主世界、地狱、末地均有生成。在不同世界得到的龙矿会掉落不同数量的龙尘。
+龙矿最好使用时运3挖掘。
 
 // ###############################################################################################
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
@@ -12,14 +11,14 @@ Draconium ore is best harvested with fortune 3.
 <tr>
 	<td align="middle">§stack[draconicevolution:draconium_ore,1,0]{size:64}</td>
 	<td padding="4,2,4,2">
-		Overworld
+		主世界
 
-		The overworld variety of Draconium ore can be found in (you guessed it) the overworld and other stone based dimensions.
-		This is the rarest of the 3 types with an extremely low generation rate but it drops the most draconium dust when harvested
+		世界中的龙矿可以在主世界和其他有陆地的维度中找到。
+		这是三种类型的矿石中中最稀有的一种，生成极少，但它在挖掘时掉落的龙尘最多。
 
-		Drops:
-		4-6 Draconium Dust (when harvested normally)
-		4-14 Draconium Dust (when harvested with fortune 3)	
+		掉落：
+		4-6个龙尘（无附魔）
+		4-14个龙尘（时运三）
 	</td>
 </tr>
 </table>
@@ -30,14 +29,13 @@ Draconium ore is best harvested with fortune 3.
 <tr padding="2,0,2,0">
 	<td align="middle">§stack[draconicevolution:draconium_ore,1,1]{size:64}</td>
 	<td padding="4,2,4,2">
-		Nether
+		地狱
 
-		More common than the overworld variant but still fairly rare and does not drop quite as much dust when harvested
-		Found in the nether.
+		比主世界上的更常见，但仍然相当罕见，挖掘时也不像主世界上的掉落那么多龙尘。
 
-		Drops:
-		3-5 Draconum Dust (when harvested normally)
-		3-13 Draconum Dust (when harvested with fortune 3)
+		掉落：
+		3-5个龙尘（无附魔）
+		3-13个龙尘（时运三）
 	</td>
 </tr>
 </table>
@@ -48,13 +46,13 @@ Draconium ore is best harvested with fortune 3.
 <tr>
 	<td align="middle">§stack[draconicevolution:draconium_ore,1,2]{size:64}</td>
 	<td padding="4,2,4,2">
-		End
+		末地
 
-		This is the most common variant of draconium ore found on the main island and all other islands in the End
+		这是最常见的龙矿所在地。
 
-		Drops:
-		2-4 Draconum Dust (when harvested normally)
-		2-12 Draconum Dust (when harvested with fortune 3)
+		掉落：
+		2-4个龙尘（无附魔）
+		2-12个龙尘（时运三）
 	</td>
 </tr>
 </table>
