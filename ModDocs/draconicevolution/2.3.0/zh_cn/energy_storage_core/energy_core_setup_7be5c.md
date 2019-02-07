@@ -1,5 +1,5 @@
 §align:center
-##### §nEnergy Core Setup Guide
+##### §n能量核心搭建指导
 
 ###### The Core
 
