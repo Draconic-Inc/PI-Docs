@@ -1,5 +1,5 @@
 §align:center
-##### §飞龙能量核心§n
+##### §n飞龙能量核心§n
 
 §stack[draconicevolution:wyvern_energy_core]{size:64}
 
