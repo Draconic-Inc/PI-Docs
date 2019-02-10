@@ -1,14 +1,14 @@
 §align:center
-##### §nWyvern Shovel§n
+##### §n双足飞龙铲§n
 
 §img[http://ss.brandon3055.com/84c07]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§b§nStats
+§b§n信息
 
-§64 Million RF capacity upgradable to 32 Million.
+§6基础可存4M RF，升级后可存32M RF
 
-§61x1 base mining AOE. Upgradable to 5x5
+§6基础范围：1×1升级后：5×5
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:wyvern_shovel]{spacing:2}

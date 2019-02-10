@@ -1,23 +1,23 @@
 §align:center
-##### §nChaos Guardian§n
+##### §n混沌龙§n
 §entity[draconicevolution:chaosguardian]{size:64,scale:3,rotate_speed:1}
  
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Looking for a challenge? The fight of your life! The Ender Dragon wasn't hard enough? Maby try 100 ender dragons all at once plus maby a few dosen withers. And if thats still not hard enough then maby this is for you! If you travel to any multiple of 10,000 in The End (e.g. {x=0, z=10000}, {x=0, z=20000}, {x=10000, z=0} etc.) you will find a Chaos Island.
+正在寻找挑战？ 末影龙不够难？ 可能需要一下子打100只龙，加上几只凋灵。 如果那仍然不够爽，那么这适合你！ 如果你在最后旅行到10,000的任意倍数（例如{x = 0，z = 10000}，{x = 0，z = 20000}，{x = 10000，z = 0}等），你会发现一个混沌岛。
 
-A Chaos island is a formation of end stone and obsidian formed over billions of years by dark energy. At its heart in an obsidian chamber is a crystal made from pure dark energy known as a Chaos Crystal.
+混沌岛是由黑暗能量形成数十亿年的末地石和黑曜石构成的。 在黑曜石室的核心是一种由纯黑暗能量制成的水晶，称为混沌水晶。
 
-Chaos islands are protected by one of the most powerful mobs in existence. The Chaos Guardian. These guardians were once regular enderdragons but exposure to the dark energy of the chaos islands has mutated them into some of the deadliest killing machines of all time.
+混沌岛屿受到现存最强大的怪物之一的保护。 混沌守护者。 这些曾经是常规的末影龙，但暴露在混沌岛的黑暗能量中已经将它们变成了有史以来最致命的杀戮机器。
 
-The various attacks of the Chaos Guardian will cut through almost any armor with one exception being draconic armor with its ability to block piercing damage. However it has the ability to rabidly drain any RF powered armor of its charge so it will quickly render your armor useless if you don't keep it charged.
+混沌守护者的各种攻击几乎可以穿透任何盔甲，但有一个例外是具有阻挡穿刺伤害能力的铠甲。 然而，它有能力一直让RF装甲掉电，因此如果你不保持充电，它将很快使你的装甲无用。
 
-Like the ender dragon the guardian has several healing crystals spread around the island. But unlike regular ender crystals these crystals are not so easy to destroy. They each have 50 hit points and when damaged will protect themselves with a shield for several seconds. You must disable all of the crystals before the guardian can be damaged.
+像末影龙一样，守护者在岛上散布着几颗水晶。 但与常规的末影水晶不同，这些晶体不易破坏。 它们每个都有50个生命值，当受到伤害时会用盾牌保护自己几秒钟。 在打龙之前，您必须打爆所有的水晶。
 
-Be aware that when low on health the guardian will occasionally try to re ignite some of the disabled crystals.
+请注意，当龙的血量低时时，龙偶尔会尝试重新点燃一些水晶。
 
-Once the guardian is defeated you can claim your reward. At the centre of the island several blocks below the surface you will find a chaos chamber containing a chaos crystal. When broken the chaos crystal will drop 5 chaos shards.
+一旦龙被击败，您就可以领取奖励。 在岛屿的中心，在表面下方几个方块，你会发现一个密室，里面有一个混沌水晶。 当挖掘时，混沌水晶会掉落5个混沌碎片。
 
-§4Be Warned!§r When you destroy the crystal the energy field it was generating will collapse. This will result in the total animation of the island within a matter of seconds. Unless you are wearing full draconic armor you will only have a few seconds to collect the shards and escape the island before you are obliterated along with the island.
+§4注意！§r当你摧毁晶体时，它产生的能量场会崩溃。 这将导致岛屿的爆炸在几秒钟内完成。 除非你穿着完整的神龙盔甲，否则你只需几秒钟就可以收集碎片并逃离岛屿，不然与岛屿一起爆炸！
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §img[http://ss.brandon3055.com/e05e8]{width:80%}

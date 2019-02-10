@@ -1,5 +1,5 @@
 §align:center
-##### §nFusion Crafting§n
+##### §n升级§n
 
 §img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Crafting.jpg]{width:100%}
 §rule{colour:0x606060,height:3,width:100%}
