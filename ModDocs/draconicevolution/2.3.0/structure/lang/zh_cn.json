@@ -25,6 +25,11 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:contributors",
+    "translation": "贡献者",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:draconic_armor/draconic_boots",
     "translation": "神龙靴",
     "page_rev": 0
@@ -42,6 +47,16 @@
   {
     "page_uri": "draconicevolution:draconic_armor/draconic_chestplate",
     "translation": "神龙胸甲",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:fusion_crafting/fusion_crafting_injectors",
+    "translation": "注入合成装置",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:energy_storage_core",
+    "translation": "能量核心",
     "page_rev": 0
   },
   {
@@ -90,6 +105,11 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:test_page",
+    "translation": "测试页",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:draconium",
     "translation": "基础",
     "page_rev": 0
@@ -97,6 +117,11 @@
   {
     "page_uri": "draconicevolution:wyvern_tools/wyvern_shovel",
     "translation": "双足飞龙铲",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:fusion_crafting/fusion_crafting_setup",
+    "translation": "步骤",
     "page_rev": 0
   },
   {
@@ -135,6 +160,11 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:energy_storage_core/energy_core_setup",
+    "translation": "能量核心搭建指导",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:dislocation/dislocator_pedestal",
     "translation": "传送符咒基座",
     "page_rev": 0
@@ -142,6 +172,11 @@
   {
     "page_uri": "draconicevolution:draconium/draconium_block",
     "translation": "龙块",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:energy_storage_core/energy_core_stabilizer",
+    "translation": "能量核心稳定器",
     "page_rev": 0
   },
   {
@@ -171,7 +206,7 @@
   },
   {
     "page_uri": "draconicevolution:draconic_reactor",
-    "translation": "龙堆",
+    "translation": "神龙反应堆",
     "page_rev": 0
   },
   {
@@ -192,6 +227,11 @@
   {
     "page_uri": "draconicevolution:dislocation/awakened_item_dislocator",
     "translation": "觉醒物品传送符咒",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:spotlights",
+    "translation": "视频",
     "page_rev": 0
   },
   {
@@ -235,8 +275,18 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:draconium_chest",
+    "translation": "龙箱",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:energy_network/the_basics",
     "translation": "基础",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:energy_storage_core/energy_pylon",
+    "translation": "能量塔",
     "page_rev": 0
   },
   {
@@ -266,7 +316,7 @@
   },
   {
     "page_uri": "draconicevolution:chaos_guardian",
-    "translation": "混沌龙",
+    "translation": "混沌守护者",
     "page_rev": 0
   },
   {
@@ -276,12 +326,17 @@
   },
   {
     "page_uri": "draconicevolution:fusion_crafting",
-    "translation": "升级",
+    "translation": "融合",
     "page_rev": 0
   },
   {
     "page_uri": "draconicevolution:energy_network/energy_io_crystals",
     "translation": "能量端口水晶",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:dislocation/bound_dislocators",
+    "translation": "绑定传送符咒",
     "page_rev": 0
   },
   {

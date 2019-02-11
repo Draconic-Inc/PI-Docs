@@ -1,49 +1,48 @@
 §align:center
-##### §n升级§n
+##### §n融合§n
 
 §img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Fusion%20Crafting/Fusion%20Crafting.jpg]{width:100%}
 §rule{colour:0x606060,height:3,width:100%}
-Fusion crafting is a process that uses large amounts of energy to combine of "fuse" items together at an atomic level.
+融合是一种利用大量能量将物品组合在原子水平上的工艺。
 
-#####§nHow It Works
+#####§n如何开始
 
-######§nRecipes
-Each Recipe requires 3 things
+######§n合成
+需要三样东西：
 
-A Catalyst
-Fusion Ingredients
-And power
+要升级的物品
+要融合的物品
+以及能量
 
-The catalyst is placed in the core and each ingredient is placed in a separate Fusion Crafting Injector. If the recipe is valid you will see the output displayed in the core's GUI as well as an option to start crafting.
+将要升级的物品置于核心中，并将每种成分置于单独的注入合成装置中。 如果配方有效，您将看到核心GUI中的显示以及开始制作的选项。
 
-Different recipes also require different tiers crafter tiers. There are currently 4 different Fusion Crafting Tiers. Basic, Wyvern, Draconic, and Chaotic.
-The tier of your setup is determined by its crafting injectors.
+不同的配方也需要不同等级的。 目前有4种不同的注入合成装置。基础、飞龙、神龙和混沌。
 
-######§nCrafting
-§o(Just sit back and enjoy the show!)§r
-There are 2 different crafting stages Charging and Crafting
+######§n合成过程
+§o（请坐下来欣赏！）§r
+有两种不同的制作阶段：充能和合成
 
-During the charging stage, all active injectors need power to charge. Once charging is complete the crafting process starts.
-he crafting stage will run for a few seconds after which the result of the crafting will be deposited in the output slot of the core.
+在充能阶段，所有注入合成装置都需充能。 充能完成后，制作过程开始。
+制作阶段将运行几秒钟，之后结果将在核心的输出槽中。
 
-######§nAutomation
-Crafting can beinitiated by aplying a redstone pulse.
-If you are using Applied Energistics the recommended configuration is to have the ME interface bellow the core. Then attach a pipe of some sort to the side of the interface and use that to supply the injectors. The injectors also need to be in single item mode.
+######§n自动化
+红石脉冲可以开始制作。
+如果您使用是Applied Energistics，建议的配置是让ME接口位于核心旁边。 然后将某种管道连接到注入合成装置并使用它来为注入合成装置供电。注入合成装置还需要处于单个物品模式。
 
-When creating the pattern make sure the catalist is the first item in the pattern as that is the first item. When crafting the interface will first try to push items to the above inventory (the core) as the catalyst is the first item in the recipe it will be pushed into the core. The remaining items will be sent through the attached pipe to the crafting injectors.
+搭建时，请确保要升级的物品是表中的第一个物品，因为这是第一个物品。当制作时，首先会尝试将物品推送临近容器（核心），因为要升级的物品是配方中的第一个物品，它将被推入核心。 剩余的物品将通过附加的管道送到注入合成装置。
 
-Make sure the interface is in blocking mode and pull the crafting result out of the core using whatever method you see fit.
+确保ME接口处于阻塞模式，并使用你认为合适的任何方法将制作结果从核心中取出。
 
-######§nComparator Output
-Attaching a comparator to the core itself allows you to check the state of the crafter using redstone. The current state is indicated by the output signal.
+######§n红石输出
+将比较器连接到核心可以用红石显示工作的状态。 输出信号指示当前状态。
 
-0 - No Recipe and output slot empty.
-1 - Valid recipe.                          
-1 > 15 - Crafting in progress.        
-15 - Craftign complete/Item in output.
+0 - 没有合成/无输出
+1 - 准备合成                          
+1 > 15 - 合成中        
+15 - 合成结束/待输出
 
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-###### §nRecipe§n
+###### §n合成§n
 §recipe[draconicevolution:fusion_crafting_core]{border_colour:0xc6c6c6}
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}

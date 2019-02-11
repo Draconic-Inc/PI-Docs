@@ -1,86 +1,75 @@
 §align:center
-##### Draconium Chest§n
-§nMuch more than just a bigger inventory!§n
+##### 龙箱§n
+§n更大的箱子！§n
 
 §stack[draconicevolution:draconium_chest]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-The Draconium chest is probably one of the most versatile storage devices around!
-Not only does it have 260 inventory slots but it also has a powerful multi-slot furnace
-and a crafting table for your convenience! 
-On top of all that, it has some very powerful I/O configuration options but we will get to that in a bit. First...
+龙箱可能是最通用的存储设备之一！
+它不仅拥有260个格子，而且还拥有强大的熔炼功能和工作台，为您提供方便！
+最重要的是，它有一些非常强大的I/O配置选项。首先...
 
 §rule{colour:0x606060,height:3,width:100%}
-######§nThe furnace
+######§n熔炼功能
 
-The built-in furnace is no ordinary furnace. For starters, it can smelt 5 items at a time. at a very reasonable speed.
-But if that isn't enough for you it can be upgraded! By simply placing a wyvern, Awakened or Chaotic core
-in the furnace upgrade slot you can make it even faster! 
-And if that still wasn't enough as long as there is a wyvern core or better in the upgrade slot the furnace will double ores!
+内置炉不是普通的炉子。对于初学者来说，它一次可以烧5件物品。以非常合理的速度。
+但如果这还不够，它可以升级！ 通过简单地放置一个双足飞龙核心，觉醒核心或混沌核心在炉子升级槽中可以让它更快！
+如果只要在升级槽中有一个双足飞龙核心或更好的的话，炉子将会双倍产出！
 
-But it should be noted that while increasing the speed this also increases the energy consumption
-a lot more than it decreases the process time.
+但应该注意的是，在提高速度的同时，这也增加了能量消耗，这比它减少处理时间要多得多。
 
-It should also be noted that when upgraded the core is not actually consumed and can be removed at any time.
+还应注意，升级时核心实际上并未消耗，并且可以随时拿走。
 
-The furnace requires power which can be supplied externally or via a flux capacitor in its capacitor slot.
+炉子需要从外部供电或通过其电容器槽中的电容器供电。
 
-The furnace also has an auto feed option which does exactly what you think.
-It automatically feeds the furnace smeltable items from the inventory.
-There are 4 feed modes:
+炉子还有一个自动送料选项，它完全符合您的想法。
+它自动从库存中提供熔炉冶炼物品。
+有4种模式：
 
 §bOFF§b
-Self-explanatory...
+没什么好解释的…
 
 §bFILL
-Will only feed the furnace when there are already items smelting 
-and will only keep the existing stacks currently smelting full.
-Will NOT start to smelt items types that you have not manually
-placed in the furnace,
+从箱子储存的物品中，填满任何已经在熔炼的格子。
 
 §bLOCK
-Pretty much the same as FILL except it will not smelt the last item.
-meaning as soon as more of that item show up in the inventory
-it will automatically start feeding again.
+与填充相似，除了不会填充最后一个物品，所以只要该物品还有更多可用，就可以一直填满炉子。
 
 §bALL
-Smelts every smeltable item in the inventory.
+会自动冶炼箱子里所有可冶炼的物品。
 
 §rule{colour:0x606060,height:3,width:100%}
-######§nThe Crafting Grid
-Actually, there's not much to say here.
-It looks like a crafting table,
-It smells like a crafting table,
-It tastes like a crafting table...
-It is a crafting table!
-With full JEI support!
+######§n合成格
+实际上，这里没什么好说的。
+它看起来像一个工作台，
+它闻起来像一个工作台，
+它的味道像工作台......
+这是一个工作台！
+有完整的JEI支持！
 
 §rule{colour:0x606060,height:3,width:100%}
-######§nConfigurable IO Regions§r
-This is where things get very interesting...
-By default, the inventory works like any other inventory. You can insert or extract items from any slot from any side of the block.
-And the furnace can also insert or extract from any slot.
-But this can be changed! 
+######§n自定义IO§r
+这是事情变得非常有趣的地方......
+默认情况下，龙箱与任何其他箱子一样。 您可以从块的任何一侧放入或提取任何物品。
+炉子也可以加入或从任何格子中输出。
+但这可以改变！
 
-You have the ability to split the inventory up into up to 6 separate I/O regions. 
-Each region can be separately configured with total control over what sides of the chest the slots can be accessed from
-with the ability to mark sides as input and or output only or just disabled completely.
-You can also configure which regions the internal furnace can accept or insert items into.
-There is also a "default region" which controls all slots that are not assigned to a region and can be configured like all other regions.
+你可以将箱子分成多达6个独立的I/O区域。
+每个区域可以单独配置，完全控制可以从中访问箱子的哪一部分，能够将侧面标记为输入和/或仅输出或仅完全禁用。
+你还可以配置内部熔炉可以接受或输入物品的区域。
+还有一个“默认区域”，它控制未分配给区域的所有插槽，并且可以像所有其他区域一样进行配置。
 
-To assign slots to a region you simply select the region in the editor and click and drag in the inventory to draw a rectangle around the slots you want in the region.
-Also when you have the region editor open you can simply click on existing regions to switch between them 
+点击并在箱子内部拖动，以改变标记到这一区域的格子。区域必须一开始就是允许的，且不能重叠。
 
-The uses for this are endless but 1 simple example...
-You create 2 regions. 
-Region 1 only accepts items from the left side of the chest and the furnace can only pull from region 1.
-Region 2 only allows items to be extracted from the right side of the chest and the furnace can only output to region 2.
+对此的用途是无穷无尽的，但有一个简单的例子......
+您创建了2个区域。
+区域1仅接受来自箱子左侧的物品，炉子只能从区域1输入。
+区域2仅允许从箱子的右侧提取物品，并且炉子仅能输出到区域2。
 
-Now when you pump items into the left side on the chest they will go to region 1, get smelted and then output to region 2 ready to be extracted from the right side of the chest.
+现在，当您将物品加入胸部的左侧时，它们将进入区域1，进行熔炼，然后输出到准备从胸部右侧抽出的区域2。
 
-§6Also! if ALL that wasn't enough§r
-The chest stores its inventory when broken,
-And you can make it any colour you want!!!
+§6这还不够！§r
+箱子在被破坏时不掉落存储的物品，你还可以改变箱子的颜色！
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconium_chest]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}

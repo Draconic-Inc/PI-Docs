@@ -1,5 +1,5 @@
 §align:center
-##### §n混沌龙§n
+##### §n混沌守护者§n
 §entity[draconicevolution:chaosguardian]{size:64,scale:3,rotate_speed:1}
  
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
