@@ -1,14 +1,14 @@
 §align:center
-##### §nDisenchanter§n
+##### §n祛魔台§n
 
 §stack[draconicevolution:diss_enchanter]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-With this device you are able to transfer enchantments (one at a time) from your items to books at the cost of experience.
+使用此设备，您可以将物品上的附魔（一次一个）从物品转移到书，但需要使用经验。
 
-The cost is determined by the level of each enchantment relative to the enchantment's max level. Removing an enchantment from an item also has the secondary effect of reducing the item's repair cost making it possible to re-enchant the same item as many times as you like.
+成本取决于每个附魔相对于附魔最大等级的等级。 从物品中移除附魔也具有降低物品修复成本的次要效果，使得可以根据需要多次重新附魔同一物品。
 
-To use it simply place the enchanted item in the first slot, place a regular book in the center slot and press the transfer button. The first enchantment will be stripped from the item and applied to the book.
+要使用它，只需将附魔的物品放在第一个槽中，将书放在中央的槽中，然后按下按钮。 第一个附魔将从该项目中剥离并应用于该书。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:diss_enchanter]{spacing:2}

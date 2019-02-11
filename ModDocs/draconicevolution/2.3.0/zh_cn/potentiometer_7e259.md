@@ -1,10 +1,10 @@
 §align:center
-##### §nPotentiometer§n
+##### §n电位计§n
 
 §stack[draconicevolution:potentiometer]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-A simple redstone emitter that is capable of emitting a variable strength redstone signal between 0 and 15.
+一个简单的红石能量发射器，能够发射0到15之间的可变强度的红石信号。
 
 §img[http://ss.brandon3055.com/bd604]{width:100%} 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}

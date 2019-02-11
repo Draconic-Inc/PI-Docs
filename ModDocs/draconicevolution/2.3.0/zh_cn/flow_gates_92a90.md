@@ -1,23 +1,23 @@
 §align:center
-##### §nFlow Gates§n
+##### §n阀门§n
 
 §stack[draconicevolution:flow_gate]{size:64} §stack[draconicevolution:flow_gate,1,8]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Flow gates as the name suggests can be used to control the flow of power or fluid through a system. Simply attach a power or fluid source to the input side and the gate will allow you to control how quickly power or fluid flows through to the output side.
+顾名思义，阀门可用于控制通过系统的能量或流体流动。 只需将电源或流体源连接到输入侧，门将允许您控制能量或流体流向输出侧的速度。
 
-When you open the gates GUI you will see 2 settings. "Redstone Signal High" and "Redstone Signal Low" these allow you to set the frow rate based on redstone signal.
+打开GUI时，您将看到2个设置。“红石信号高”和“红石信号低”这些允许您根据红石信号设置。
 
-It should be noted that the gates support analog redstone input meaning if for example you set the RS Low flow to 1000 and the RS High flow to 10000 you will be able to adjust the flow between 1000 and 10000 by applying a variable strength redstone signal. This variability works well with the §link[draconicevolution:potentiometer]{alt_text:"Potentiometer"}.
+应该注意的是，门支持红石输入，这意味着如果您将低流量设置为1000并且高流量设置为10000，则可以通过应用可变强度红石信号来调整1000和10000之间的流量。这种变化适用于§link[draconicevolution:potentiometer]{alt_text:"Potentiometer"}.
 
-Finally there is a "Flow" value displayed at the bottom of the screen. This shows the current flow rate setting (taking into accout redstone signal or computer control)
+最后，屏幕底部显示“Flow”值。 这显示了当前的流量设置（考虑到红石信号或计算机控制）
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:flow_gate]{spacing:2}§recipe[draconicevolution:flow_gate,1,8]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}
-###### §nComputer Control
-Flow gates can also be controlled using Computergraft or Open Computers. You can find a list of avalible peripheral methods bellow.
-
+###### §n计算机控制
+也可以使用Computergraft或Open Computers控制门。 您可以在下面找到可用的外围设备方法列表。
+§n§6注意：以下为英文，原因是为了更好的使玩家了解名称及调用！§6§n
 §ngetFlow
 §rule{height:3,padding:0}
 Returns the current flow rate

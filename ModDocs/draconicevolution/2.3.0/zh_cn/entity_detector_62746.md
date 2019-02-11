@@ -1,41 +1,41 @@
 §align:center
-##### §nEntity Detector§n
+##### §n实体探测器§n
 
 §stack[draconicevolution:entity_detector]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-This is an advanced entity detector with a lot of useful features.
+这是一个具有许多有用功能的高级实体检测器。
 
-These detectors are capable of searching for specific entity types and emitting a customized redstone signal based on what they find.
-These detectors send out scanning pulses at a configurable frequency and then update their redstone output based on what they find.
+探测器能够搜索特定的实体类型，并根据它们发现的内容发出特定的红石信号。
+探测器可以以可配置的频率发出扫描脉冲，然后根据它们发现的内容更新红石输出。
 
-§bFeatures:
-§3Basic:§6
-10 Block max scanning range.
-1.5 Second max scanning rate.
-60 Second min scanning rate.
-0.25 Second max scanning rate
-Filter by Player, Hostile, Passive, or any combination.
+§b参数：
+§3基础：§6
+最大范围：10
+最小扫描间隔：1.5s
+最大扫描间隔：60s一次
+0.25s搜索一次
+按玩家，敌对，被动或任何组合过滤。
 
-§5Advanced:§6
-64 Block max range
-0.25 Second max scanning rate
-Filter by Player, Hostile, Passive, Other, or any combination.
-White List / Black List§r
+§5高级：§6
+最大范围：64
+0.25s搜索一次
+按玩家，敌对，被动，其他或任何组合过滤。
+黑名单/白名单§r
 
-The blacklist/whitelist in the advanced detector can be set to search for or ignore pretty much any entity in the game. And not just living entities either!
-It can also search for specific players.
+高级探测器中的黑名单/白名单可以设置为搜索或忽略游戏中的任何实体。
+它还可以搜索特定的玩家。
 
-§4Redstone:§r
-The redstone output has 2 modes. Fixed and Pulsed.
-In fixed mode, the redstone signal will be constant between scanning pulses.
-In pulse mode, it will emit a 1 tick redstone pulse each scanning pulse (Assuming it finds entities)
+§4红石输出：§r
+红石输出有2种模式。 稳定和脉冲。
+在稳定模式下，红石信号在扫描脉冲之间保持恒定。
+在脉冲模式下，每个扫描脉冲发出1t红石脉冲（假设它找到实体）
 
-These devices can also be configured to output different signal strength depending on the number of entities detected.
-This control comes in the form of 2 controls within the GUI. RS Min and RS Max.
-RS Min is the number of entities that must be detected by the device to output a signal strength of 1.
-RS Max is the number required for an output strength of 15.
-The output strength will vary accordingly if the number of entries detected is between these 2 values.
+这些设备还可以配置为根据检测到的实体数量输出不同的信号强度。
+该控件以GUI中的2个控件的形式出现。 RS Min和RS Max。
+RS Min是设备必须检测到的输出信号强度为1的实体数。
+RS Max是输出强度为15所需的数字。
+如果检测到的条目数在这两个值之间，则输出强度将相应变化。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:entity_detector]{spacing:2}§recipe[draconicevolution:entity_detector,1,1]{spacing:2}

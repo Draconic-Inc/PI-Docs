@@ -1,31 +1,29 @@
 §align:center
-##### §nMob Soul§n
+##### §n生物灵魂§n
 
 §stack[draconicevolution:mob_soul,1,0,{EntityName:"[Random-Display]"}]{size:92} 
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Mob souls are occasionally dropped my mobs when killed by a player using a weapon with the Reaper modifier.
+当使用带有收割者附魔的武器杀死玩家时，生物偶尔会掉落我的怪物。
 
-The drop chance is extremely low.
-1 in 1000 for hostile mobs and 1 in 800 for passive mobs (configurable) for unenchanted wyvern weapons.
-But the chances of getting a soul can be improved using the reaper enchant.
+掉落几率非常低。
+敌对生物中的1：1000和被动生物中的1：800（可配置）。
+但是使用收割者附魔可以提高获得灵魂的机会。
 
-DE tools essentially have a built-in reaper modifier equivalent to reaper lvl 1 for Wyvern, lvl 2 for Draconic and lvl 3 for the Staff of Power.
-The calculation to figure out your drop chance is the base drop chance divided by the weapons built in reaper modifier plus the reaper enchant lvl.
+DE工具基本上有一个内置的收割者，相当于飞龙的lvl 1，神龙的lvl 2和权杖的lvl 3。
+计算掉落几率的计算方法是基础掉落几率除以收割者修正值加上收割者附魔lvl的武器。
 
-So the calculation for say.. A Draconic sword with reaper 5 would be as follows,
-built-in modifier = 2,
-reaper lvl = 5,
-drop chance = 1000 / (2 + 5)
+所以计算说..收割者5的龙剑将如下：
+基础掉率 = 2,
+lvl = 5,
+最终掉率 = 1000 / (2 + 5)
 
-Result: Drop chance is 1 in 142
+如果收割者修正为0（没有收割者附魔的非DE武器），就没有机会。
 
-If the reaper modifier is 0 (so a non-DE weapon without the reaper enchant) there is 0 chance of getting a soul.
-
-Some mods may implement the reaper modifier on their weapons but as of the time of writing this, I do not know of any that do.
+一些mod可以在他们的武器上实现收割者，但截至撰写本文时，我不知道有什么用。
 
 
-The main use for a mob soul is setting the spawn type for a Stabilized spawner but they can also be used to spawn their respective entity by shift right clicking on a block with a soul (Doing this consumes the soul)
+灵魂的主要用途是为稳定刷怪笼设置生物类型，但是它们也可以通过右键单击带有灵魂的方块来生成它们各自的实体（这样做会消耗灵魂）
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:mob_soul]{spacing:2}

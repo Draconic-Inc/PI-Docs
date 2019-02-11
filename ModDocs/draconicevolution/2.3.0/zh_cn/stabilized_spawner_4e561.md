@@ -1,14 +1,14 @@
 §align:center
-##### §nStabilized Spawner§n
+##### §n稳定刷怪笼§n
  
  
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,1*,1*,1*">
 <tr align = "center">
-	<td>###### §nBasic</td>
-	<td>###### §nWyvern</td>
-	<td>###### §nDraconic</td>
-	<td>###### §nChaotic</td>
+	<td>###### §n基础/td>
+	<td>###### §n飞龙</td>
+	<td>###### §n神龙</td>
+	<td>###### §n混沌</td>
 </tr>
 <tr align = "center">	<td>
 §stack[draconicevolution:draconic_spawner,1,0,{BCTileData:{BCManagedData:{spawnerTier:0b,mobSoul:{id:"draconicevolution:mob_soul",Count:1b,tag:{EntityName:"minecraft:pig"},Damage:0s}}}}]{size:96}
@@ -26,48 +26,46 @@
 </table>
 
 
-Stabilizing a spawner turns it into a very useful tool for spawning all sorts of mobs. To get one all you have to do is right click a vanilla spawner with any of the 4 DE Cores. The spawner will consume the core and convert the spawner to the equivalent tier Stabilized Spawner which will be dropped as an item in the world. This, of course, means there are 4 spawner tiers as there are 4 core tiers.
+稳定一个刷怪笼会把它变成一个非常有用的工具来产生各种各样的怪物。 要获得一个，您只需用核心右键单击刷怪笼。刷怪笼将使用核心并将刷怪笼转换为等效的稳定刷怪笼，它将掉落。 当然，这意味着有4个等级。
 
-It should be noted that when the spawner drops it will be set to spawn the same entity as the original spawner.
+应该注意的是，当刷怪笼掉落时，它将被设置为产生与原始刷怪笼相同的实体。
 
-It should also be noted that once placed you can not pick up a spawner without destroying the §link[draconicevolution:mob_soul]{alt_text:"Mob Soul"} it contains.
-
-In order to reset the spawner to the same or a different mob type, you need to apply a new §link[draconicevolution:mob_soul]{alt_text:"Mob Soul"}. 
+生物可通过使用§link[draconicevolution:mob_soul]{alt_text:"生物灵魂"}右击来改变。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 
-As mentioned when you create a spawner it will be the same tier as the core you used to create it.
-If you wish to upgrade (or downgrade) a spawner you can simply right-click the spawner with a different type of core.
-The new core will be applied and the previous core will be removed and dropped as an item.
+正如您在创建刷怪笼时所提到的，它将与您用于创建它的核心相同。
+如果您希望升级（或降级）刷怪笼，只需右键单击具有不同类型核心的刷怪笼即可。
+这将应用新核心，并将先前的核心作为物品掉落。
 
-Each spawner tier has certain improvements over the last.
-The spawn range for all spawners is 4 blocks (the same as the vanilla spawner)
+每个等级都比上一个有一定的改进。
+所有刷怪笼的刷怪范围与原版刷怪笼相同。
 
-§1§nBasic§r
-The basic tier is very similar to the vanilla spawner.
-It §3spawns up to 4 mobs at a time with a delay of between 10 and 40 seconds§r between spawns.
-It §crequires a player to be within 24 blocks§r to function
-and mobs §cwill only spawn if their spawn requirements are met§r e.g. grass for cows, pigs, etc.. and darkness for monsters. 
+§1§n基础§r
+这与原版刷怪笼非常相似。
+§3一次产生多达4个怪物，产生之间的延迟在10到40秒之间。
+§c要求玩家在24个方块内§r
+并且要满足它们的生成要求，那么这只能生成它们。 奶牛，猪等的草方块。和怪物的黑暗。
 
-§5§nWyvern§r
-spawns up to 6 mobs at a time with a delay of between 5 and 20 seconds§r between spawns.
-does not require a player nearby.§r
-Will only spawn if their spawn requirements are met§r e.g. grass for cows, pigs, etc.. and darkness for monsters. 
+§5§n飞龙§r
+每次产生多达6个怪物，产生之间的延迟在5到20秒之间。
+不需要玩家在附近。§r
+并且要满足它们的生成要求，那么这只能生成它们。 奶牛，猪等的草方块。和怪物的黑暗。
 
-§6§nDraconic§r
-spawns up to 8 mobs at a time with a delay of between 2.5 and 10 seconds§r between spawns.
-Does not require a player nearby.§r
-Ignores mob spawn requirements.§r
+§6§n神龙§r
+一次产生多达8个怪物，产生之间的延迟在2.5到10秒之间。
+不需要玩家在附近。§r
+忽略生成要求。§r
 
-§0§nChaotic§r
-spawns up to 12 mobs at a time with a delay of between 1.25 and 5 seconds§r between spawns.
-Does not require a player nearby.§r
-Ignores mob spawn requirements.§r
-Warning things may get a little chaotic if you choose to use this spawner!§r
+§0§n混沌§r
+每次产生多达12个怪物，产生之间的延迟在1.25到5秒之间。
+不需要玩家在附近。§r
+忽略生成要求。§r
+如果您选择使用此刷怪笼，事情可能会有点混乱！§r
 
-Note: If you have EnderIO installed you can create stabilized spawners by crafting a core with an EnderIO broken spawner,
+注意：如果你安装了EnderIO，你可以通过使用EnderIO破碎的刷怪笼制作稳定的刷怪笼。
 
-Creative Note: If you wish to set the type for a spawner in creative mode you can do so using a spawn egg.
+创造注意：如果你希望在创造模式下为刷怪笼设置类型，可以使用刷怪蛋来完成。
 
 §recipe[draconicevolution:draconic_spawner]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}

@@ -15,6 +15,16 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:disenchanter",
+    "translation": "祛魔台",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:rain_sensor",
+    "translation": "雨水传感器",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:energy_network",
     "translation": "能量网络",
     "page_rev": 0
@@ -50,8 +60,23 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:mob_soul",
+    "translation": "生物灵魂",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:fusion_crafting/fusion_crafting_injectors",
     "translation": "注入合成装置",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:celestial_manipulator",
+    "translation": "苍穹变换器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:mob_grinder",
+    "translation": "怪物磨床",
     "page_rev": 0
   },
   {
@@ -85,8 +110,18 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:potentiometer",
+    "translation": "电位计",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:draconic_reactor/regulation_and_safety",
     "translation": "规划及安全系统",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:flow_gates",
+    "translation": "阀门",
     "page_rev": 0
   },
   {
@@ -97,6 +132,11 @@
   {
     "page_uri": "draconicevolution:wyvern_armor/wyvern_chestplate",
     "translation": "双足飞龙胸甲",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:entity_detector",
+    "translation": "实体探测器",
     "page_rev": 0
   },
   {
@@ -195,6 +235,16 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:ender_energy_manipulator",
+    "translation": "末影操纵者",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:generator",
+    "translation": "发电机",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:cores",
     "translation": "核心",
     "page_rev": 0
@@ -260,6 +310,16 @@
     "page_rev": 0
   },
   {
+    "page_uri": "draconicevolution:stabilized_spawner",
+    "translation": "稳定刷怪笼",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:upgrade_system",
+    "translation": "升级系统",
+    "page_rev": 0
+  },
+  {
     "page_uri": "draconicevolution:dislocation/dislocator_receptacle",
     "translation": "移位收纳容器",
     "page_rev": 0
@@ -292,6 +352,11 @@
   {
     "page_uri": "draconicevolution:wyvern_tools/wyvern_axe",
     "translation": "双足飞龙斧",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "draconicevolution:energy_infuser",
+    "translation": "能量注入器",
     "page_rev": 0
   },
   {
