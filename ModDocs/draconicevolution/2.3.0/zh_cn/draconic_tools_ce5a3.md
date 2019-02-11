@@ -13,5 +13,5 @@
 例如你可以一下子挖出5×5×5
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Tools/Draconic%20Tools.jpg]{tooltip:"The wyvern toolset uses custom 3D models when rendered in game.",width:100%}
+§img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Tools/Draconic%20Tools.jpg]{tooltip:"双足飞龙工具在游戏中使用3D模型。",width:100%}
 §rule{colour:0x606060,height:3,width:100%}

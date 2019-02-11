@@ -31,8 +31,8 @@
 §6§n攻击力更高§r
 
 §6§n工具和武器可以升级！§r
-有关工具升级的信息，请查看有关页面§link[draconicevolution:upgrade_system]{alt_text:"Upgrade System"}
+有关工具升级的信息，请查看有关页面§link[draconicevolution:upgrade_system]{alt_text:"升级系统"}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Tools/Wyvern%20Tools.jpg]{tooltip:"The wyvern toolset uses custom 3D models when rendered in game.",width:100%}
+§img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Tools/Wyvern%20Tools.jpg]{tooltip:"双足飞龙工具在游戏中使用3D模型。",width:100%}
 §rule{colour:0x606060,height:3,width:100%}

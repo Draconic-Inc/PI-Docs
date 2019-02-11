@@ -4,7 +4,7 @@
 §img[http://ss.brandon3055.com/178a7]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-The bows in Draconic Evolution are very powerful with many different configurable settings.
+这把弓非常强大，有许多不同的设置。
 
 §6基础可存4M RF，升级后可存32M RF
 
