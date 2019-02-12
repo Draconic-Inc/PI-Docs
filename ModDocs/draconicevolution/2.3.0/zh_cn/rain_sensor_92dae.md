@@ -1,11 +1,11 @@
 §align:center
-##### §nRain Sensor§n
+##### §n雨水传感器§n
 
 §stack[draconicevolution:rain_sensor]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-A device that emits a redstone signal when it rains.
-(Needs to be able to see the sky)
+下雨时发出红石信号的设备。
+（需要对着天空）
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:rain_sensor]{spacing:2}

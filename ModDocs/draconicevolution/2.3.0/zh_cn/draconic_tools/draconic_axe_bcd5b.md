@@ -4,9 +4,9 @@
 §img[http://ss.brandon3055.com/a862d]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§b§nStats
+§b§n信息
 
-§6储能：16.0M RF 升级后256M RF
+§6基础可存16.0M RF 升级后256M RF
 
 §6挖掘范围：1×1，3×3，9×9（升级后）
 

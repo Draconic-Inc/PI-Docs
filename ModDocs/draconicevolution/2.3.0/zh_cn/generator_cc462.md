@@ -1,10 +1,10 @@
 §align:center
-##### §nGenerator§n
+##### §n发电机§n
 
 §stack[draconicevolution:generator]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-This is just a simple no thrills generator that burns most fuel sources and produces 84RF/t
+这只是一个简单的发电机，使用大多数燃料，生产84RF/t
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:generator]{spacing:2}

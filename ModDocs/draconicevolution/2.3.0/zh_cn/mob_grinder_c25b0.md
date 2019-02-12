@@ -1,16 +1,16 @@
 §align:center
-##### §nMob Grinder§n
+##### §n怪物磨床§n
 
 §stack[draconicevolution:grinder]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Everyone needs effective mob farms. For the cost of a bit of  RF power, you can kill to your heart's content knowing the forces of the Draconic have your back!
+每个人都需要有效的刷怪场。对于一点RF的成本，你可以忽略，因为实在是太少了！
 
-The grinder will kill all mobs in a 7x7 area in front of it.
+怪物磨床会杀死前方7x7区域内的所有怪物。
 
-In order to reduce lag, experience orbs dropped by the grinder will despawn after 30 seconds if not collected. It is recommended that you use something like the EnderIO XP Vacuum to collect the experience orbs (if available).
+为了减少卡顿，如果没有收集，怪物磨床掉落的经验球将在30秒后消失。建议你使用XP漏斗之类的东西来收集XP（如果有的话）。
 
-The grinder can be powered either externally or by a capacitor placed in the capacitor slot in its GUI.
+怪物磨床可以从外部供电，也可以通过放置在GUI中的电容器供电。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:grinder]{spacing:2}

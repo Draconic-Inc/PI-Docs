@@ -1,5 +1,5 @@
 §align:center
-###### §nSpotlights by direwolf20§n
+###### §ndirewolf20§n
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,1*">
 <tr align="center" padding="0,4,0,4">
@@ -16,7 +16,7 @@
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 
-###### §nSpotlights by The MindCrafters§n
+###### §nThe MindCrafters§n
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,1*">
 <tr align="center" padding="0,4,0,4">

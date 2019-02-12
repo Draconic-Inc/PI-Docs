@@ -1,8 +1,8 @@
 §align:center
-##### §nDislocation§n
+##### §n传送§n
 
 §stack[draconicevolution:dislocator]{size:32} §stack[draconicevolution:dislocator_advanced]{size:32} §stack[draconicevolution:dislocator_bound,1,1]{size:32} §stack[draconicevolution:magnet]{size:32} §stack[draconicevolution:magnet,1,1]{size:32}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Draconic Evolution has a number of items designed to assist with your teleportation needs!
+龙之进化有许多物品旨在帮助您远程传送！
 §rule{colour:0x606060,height:3,width:100%}

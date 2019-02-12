@@ -1,14 +1,14 @@
 §align:center
-##### §nWyvern Axe§n
+##### §n双足飞龙斧§n
 
 §img[http://ss.brandon3055.com/6b29d]{width:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§b§nStats
+§b§n信息
 
-§64 Million RF capacity upgradable to 32 Million.
+§6基础可存4M RF，升级后可存32M RF
 
-§61x1 base mining AOE. Upgradable to 5x5
+§6基础范围：1×1升级后：5×5
 
 §6Tree Harvesting
 When enabled simply hold right click on the base of a tree and this axe will quickly block by block harvest the entire tree.

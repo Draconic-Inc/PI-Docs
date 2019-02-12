@@ -4,7 +4,7 @@
 §stack[draconicevolution:draconic_chest]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§bStats
+§b信息
 
 飞行(可开关)
 消除飞行时挖掘的减速

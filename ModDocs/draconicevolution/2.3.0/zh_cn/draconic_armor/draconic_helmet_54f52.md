@@ -1,10 +1,10 @@
 §align:center
-##### §nDraconic Helmet§n
+##### §n神龙头盔§n
 
 §stack[draconicevolution:draconic_helm]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§bStats
+§b信息
 
 夜视(可开关)
 消除DEBUFF

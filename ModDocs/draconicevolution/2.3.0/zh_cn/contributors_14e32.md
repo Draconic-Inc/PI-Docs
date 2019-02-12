@@ -1,25 +1,25 @@
-##### §b§nContributors§n§b
+##### §b§n贡献者§n§b
 //§rule{colour:0x606060,height:3,width:100%}
 
 §n§6Covers1624§b§n
-Covers is the biggest DE contributor as far as DE 1.10+ is concerned. His work with CCL has been an enormous help and is what makes a lot of the fancy rendering in 1.10+ possible! He has also been a big help with some of the DE code. He is all around great guy and a very good friend! 
-§link[https://twitter.com/covers1624]{alt_text:"Visit Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/covers1624]{alt_text:"Visit Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
+就DE 1.10+而言，Covers1624是最大的DE贡献者。 他在CCL方面的工作的帮助，这使得1.10+中很多花哨的渲染成为可能！他对一些DE代码也有很大的帮助。他是一个伟大的家伙和一个非常好的朋友！
+§link[https://twitter.com/covers1624]{alt_text:"Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/covers1624]{alt_text:"Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
 §rule{colour:0x606060,height:3,width:100%}
 
 §n§6GreatOrator§b§n
-GreatOrator has always been and will always be one of my best friends. He was the first person I met in the modded community when we both played on the same modded 1.4.7 server a few years back. After playing with mods for a while we both decided we wanted to take it a step further. GreatOrator started working on the mod pack that is now known as Tolkiencraft and I decided to start messing with java and working on an add-on for Tolkiencraft that would one day be known as Draconic Evolution.
+GreatOrator一直都是我最好的朋友之一。 他是我在mod社区遇到的第一个人，几年前我们都玩相同的1.4.7服务器。在玩了一段时间之后，我们都认为我们想要更进一步。GreatOrator开始研究现在被称为Tolkiencraft的mod包，我决定开始搞java并为Tolkiencraft开发一个mod，它将被称为Draconic Evolution。
 
-If you told us back then how far we would go we never would have believed it tbh I'm still having a hard time believing it. I think it was the amazing success of the Tolkiencraft pack that what really helped DE become as popular as it is today because as people learned about TC they also learned about DE.
-§link[https://twitter.com/GreatOrator73]{alt_text:"Visit Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/greatorator]{alt_text:"Visit Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
+如果你告诉我们，我们将走多远，我们永远不会相信它，我仍然很难相信它。我认为Tolkiencraft包的惊人成功确实帮助DE变得如今一样受欢迎，因为当人们了解TC时他们也了解了DE。
+§link[https://twitter.com/GreatOrator73]{alt_text:"Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/greatorator]{alt_text:"Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
 §rule{colour:0x606060,height:3,width:100%}
 
 §n§6Sn0wshepherd§b§n
-I must also thank Sn0wshepherd for her contribution to DE. Almost all of the textures and 3D tool/armor models used from 1.10 to 1.12.2 were created by her!
-§link[https://twitter.com/Sn0wShepherd]{alt_text:"Visit Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/sn0wshepherd]{alt_text:"Visit Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
+我还要感谢Sn0wshepherd对DE的贡献。 从1.10到1.12.2使用的几乎所有材质和3D工具/装甲模型都是由她创建的！
+§link[https://twitter.com/Sn0wShepherd]{alt_text:"Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/sn0wshepherd]{alt_text:"Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
 §rule{colour:0x606060,height:3,width:100%}
  
 ##### §b§nPatreon§n§b
-§aThe following people are supporting me on patreon! The support these people give really helps make what I do possible. For this, I owe them all a debt of gratitude.
+§a以下人员支持我的patreon！ 这些人给予的支持确实有助于实现我的成就。 为此，我再次感谢！
 
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,1*">
@@ -165,4 +165,4 @@ I must also thank Sn0wshepherd for her contribution to DE. Almost all of the tex
 </tr>
 </table>
 §rule{colour:0x606060,height:3,width:100%}
-§img[http://ss.brandon3055.com/45745]{width:118,tooltip:"Click here to visit my patreon page.",link_to:"https://www.patreon.com/brandon3055",border_colour:0x909090,border_colour_hover:0x00FF00,padding:1} 
+§img[http://ss.brandon3055.com/45745]{width:118,tooltip:"点击打钱",link_to:"https://www.patreon.com/brandon3055",border_colour:0x909090,border_colour_hover:0x00FF00,padding:1} 

@@ -1,28 +1,26 @@
 §align:center
-##### §nEnergy Core Stabilizers§n
+##### §n能量核心稳定器§n
 
 §stack[draconicevolution:particle_generator,1,2]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Stabilizers are an essential part of the core. They well... stabilize it...
-If you're building a tier 1-4 core this is as simple as placing 4 stabilizers around the core within 16 blocks.
-However, if you're building a higher tier core you will need advanced stabilizers.
-
-These are simply 9 regular stabilizers in the configuration shown below
+稳定器是核心的重要组成部分。 他们很好的......稳定它......
+如果您正在构建1-4级核心，这就像在16个方块内围绕核心放置4个稳定器一样简单。
+但是，如果您正在构建更高级别的核心，则需要使用高级稳定器（每个要9×9放置）。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §img[http://ss.brandon3055.com/b59ce]{width:40%} §img[http://ss.brandon3055.com/33558]{width:40%}
 §rule{colour:0x606060,height:3,width:100%}
-Once you have at least 1 stabilizer setup correctly you can right click it to once again open the energy core GUI. At this point you will want to turn off the build guide
+一旦正确设置了至少1个稳定器，您可以右键单击它再次打开能量核心GUI。此时，你需要关闭构建指南。
 
-You can now also see the status of the core. If you have built the structure correctly the core status should say "Valid".
-Once you have also completed the stabilizers you should be able to activate the core.
+您现在还可以看到核心的状态。 如果您已正确构建结构，则核心状态应为“有效”。
+一旦你也放好了稳定器，你应该能够激活核心。
 
-Note that the stabilizers can be placed either on the horizontal or vertical plane.
+请注意，稳定器可以放置在水平或垂直平面上。
 
 §img[http://ss.brandon3055.com/9f477]{width:40%} §img[http://ss.brandon3055.com/165c5]{width:40%}
 §rule{colour:0x606060,height:3,width:100%}
-Next step is to setup the energy pylons. §link[draconicevolution:energy_storage_core/energy_pylon]{alt_text:"Click here to go to the energy pylon page."}
+然后放置§link[draconicevolution:energy_storage_core/energy_pylon]{alt_text:"能量塔"}。
 §rule{colour:0x606060,height:3,width:100%}
 §recipe[draconicevolution:particle_generator,1,2]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}

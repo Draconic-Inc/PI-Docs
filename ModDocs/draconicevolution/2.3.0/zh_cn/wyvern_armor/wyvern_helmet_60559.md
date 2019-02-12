@@ -1,14 +1,14 @@
 §align:center
-##### §nWyvern Helmet§n
+##### §n双足飞龙头盔§n
 
 §stack[draconicevolution:wyvern_helm]{size:64}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-§bStats
+§b信息
 
-+20 Base Shield Capacity
-+2 Armor Toughness
-+3 Armor
++20护盾
++2盔甲韧性
++3护甲
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:wyvern_helm]{spacing:2}
