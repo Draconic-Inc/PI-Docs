@@ -59,7 +59,7 @@ Lets start by taking a look at the reactor GUI.
 
 随着核内混沌元素的增加，龙堆的反应性也随之增加。这种更高的反应性提高了反应堆的效率，这意味着随着时间的推移，随着燃料的转化，你将能够从反应堆中获得越来越多的能量，同时保持一个稳定的温度。这将输出几百万RF，在你补充燃料前。
 
-§4[警告]§4在消耗水平达到100之前，你必须关闭反应堆并补充燃料！混沌元素是高度不稳定的，如果核心没有一定数量的觉醒元素，它就无法被控制。这将导致无法阻止的失控热反应！堆芯温度不受控制地升高，直到容器场失效，导致灾难性爆炸。
+§4[警告]§4在消耗水平达到100之前，你必须关闭反应堆并补充燃料！混沌元素是高度不稳定的，如果核心没有一定数量的觉醒元素，它就无法被控制。这将导致无法阻止的链式反应！堆芯温度不受控制地升高，直到容器场失效，导致灾难性爆炸。
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
@@ -74,7 +74,7 @@ Lets start by taking a look at the reactor GUI.
 
 此时聚变已经停止，控制场可以关闭。一旦堆芯冷却到足够低的温度，你就可以给反应堆补充燃料或者拆除它。
 
-§4[WARNING]§4 Even now its still not safe to dismantle the reactor until the temperature drops bellow 300c! If you do... well fusion has stopped at this point so the result wont exactly be nuclear but dropping a giant ball of super heated draconium on the floor will still make one hell of a mess!
+§4[WARNING]§4 即使现在拆除反应堆也不安全，在温度下降到300度以前。核聚变在这时停止了，所以结果不会是大爆炸的，但是把一个滚烫的球扔到地上仍然会造成极大的混乱。
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
