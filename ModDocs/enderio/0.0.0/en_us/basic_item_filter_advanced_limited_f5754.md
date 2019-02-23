@@ -10,7 +10,7 @@ When used on the extraction side: The configured number specifies how much shoul
 
 When used on the insertion side: The configured number specifies how much should be inserted at most for the *whole inventory*.
 
-It also supports most of the options of the §link[enderio:basic_item_filter_gui_advanced]{alt_text:"Advanced Item Filter"}.
+It also supports most of the options of the §link[enderio:basic_item_filter_advanced]{alt_text:"Advanced Item Filter"}.
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 

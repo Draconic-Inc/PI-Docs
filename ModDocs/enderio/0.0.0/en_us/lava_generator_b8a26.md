@@ -2,7 +2,7 @@
 ###### §nLava Generator§n
 §stack[enderio:block_lava_generator]{size:18}
 §align:left
-The Lava Generator generes energy (µI) by cooling down lava. It has an internal tank that you can fill either with Fluid Conduits or by right-clicking the block with fluid container (e.g. a bucket).
+The Lava Generator generates energy (µI) by cooling down lava. It has an internal tank that you can fill either with Fluid Conduits or by right-clicking the block with fluid container (e.g. a bucket).
 
 As side effect of cooling the lava, the generator will heat up. The hotter it gets, the worse its efficiency will become!
 

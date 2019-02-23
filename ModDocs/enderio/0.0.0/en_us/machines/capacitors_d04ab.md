@@ -10,4 +10,6 @@ Capacitors are what enables machines and items to store power. Better capacitor 
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 
-§recipe[enderio:item_basic_capacitor]{spacing:4}§recipe[enderio:item_basic_capacitor,1,1]{spacing:4}§recipe[enderio:item_basic_capacitor,1,2]{spacing:4}
+§recipe[enderio:item_basic_capacitor]{spacing:4}
+§recipe[enderio:item_basic_capacitor,1,1]{spacing:4}
+§recipe[enderio:item_basic_capacitor,1,2]{spacing:4}

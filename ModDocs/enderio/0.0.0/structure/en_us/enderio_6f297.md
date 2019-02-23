@@ -5,7 +5,7 @@
 §align:left
 Ender IO is a full-sized tech-mod. Listing all its features could fill whole books, and because all programmers are lazy when it comes to documentation, those books don't exist.
 
-But don't dispair! We aren't completly heartless (only mostly)---there *is* some documentation:
+But don't despair! We aren't completely heartless (only mostly)---there *is* some documentation:
 
 §table{width:100%,render_cells:false}
 | :- | :-------------------- |
