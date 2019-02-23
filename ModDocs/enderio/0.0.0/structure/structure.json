@@ -1,0 +1,83 @@
+{
+  "mod_id": "enderio",
+  "mod_version": "0.0.0",
+  "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
+  "verified": false,
+  "file": "enderio_6f297.md",
+  "icons": [
+    {
+      "type": "stack",
+      "draw_hover": false,
+      "icon_string": "enderio:item_enderface"
+    }
+  ],
+  "cycle_icons": false,
+  "pages": [
+    {
+      "id": "gui_lava_generator",
+      "file": "gui_lava_generator_b8a26.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "enderio:block_lava_generator"
+        }
+      ]
+    },
+    {
+      "id": "machines",
+      "file": "machines_39aa7.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "enderio:item_material,1,54"
+        }
+      ],
+      "pages": [
+        {
+          "id": "capacitors",
+          "file": "machines/capacitors_d04ab.md",
+          "cycle_icons": false,
+          "hidden": false,
+          "icons": [
+            {
+              "type": "stack",
+              "draw_hover": false,
+              "icon_string": "enderio:item_basic_capacitor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basic_item_filter_gui",
+      "file": "basic_item_filter_gui_2d237.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "enderio:item_basic_item_filter"
+        }
+      ]
+    },
+    {
+      "id": "basic_item_filter_gui_advanced",
+      "file": "basic_item_filter_gui_advanced_fa4ac.md",
+      "cycle_icons": false,
+      "hidden": false
+    },
+    {
+      "id": "basic_item_filter_gui_advanced_limited",
+      "file": "basic_item_filter_gui_advanced_limited_f5754.md",
+      "cycle_icons": false,
+      "hidden": false
+    }
+  ]
+}
