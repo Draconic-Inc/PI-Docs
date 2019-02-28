@@ -12,10 +12,10 @@
 
 除了简易的机器，它们可以使用红石控制。在他们的GUI（右上角）中有一个按钮，让你可以选择“始终工作”、“收到信号工作”、“收到信号不工作”和“从不工作“。
 
-所有机器都可以自动输入输出。 这可以从GUI配置，按钮是右上角的第二个按钮。 您也可以通过§stack[enderio:item_yeta_wrench]{size:9}来配置它们的面
+所有机器都可以自动输入输出。 这可以从GUI配置，按钮是右上角的第二个按钮。 您也可以通过以太扳手§stack[enderio:item_yeta_wrench]{size:9}来配置它们的面
 
-Many machines can show their JEI recipes. A button for this is on the right side of the GUI.
+许多机器都可以通过JEI显示合成表，按钮就在右边的最下面。
 
-Machines hold their contents and configurations when broken. While you can break them with a §stack[minecraft:iron_pickaxe]{size:9}Pickaxe (or even your bare hands), shift-right-clicking with a §stack[enderio:item_yeta_wrench]{size:9}Yeta Wrench (or most wrenches from other mods) will break them instantly.
+机器在被挖掘时保留其内容和配置。虽然你可以使用帖镐及以上等级的挖掘工具拆卸§stack[minecraft:iron_pickaxe]{size:9}。但是以太扳手（或其他mod的扳手）将可以快速拆卸。
 
-If you want to clear the configuration of a machine (and all items inside!), simply put it into a §stack[minecraft:crafting_table]{size:9}crafting grid by itself.
+如果要清除机器的配置（以及内部的所有物品！），只需将其放入§stack[minecraft:crafting_table]{size:9}进行合成。
