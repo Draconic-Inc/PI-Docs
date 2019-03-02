@@ -8,7 +8,7 @@
 
 你可以通过将冷的方块和流体放在它附近来冷却它。但是，你永远无法让它冷却到足以让它连续运行。
 
-它会产生§stack[minecraft:cobblestone]{size:9}、§stack[minecraft:stone]{size:9} 或者§stack[minecraft:obsidian]{size:9} 。您提供的冷却温度决定了它将产生哪种方块。§stack[minecraft:cobblestone]{size:9}是最基本的产物，由空气、流动的水等产生。水源将产生§stack[minecraft:stone]{size:9}，但是水会被消耗。想要产生§stack[minecraft:obsidian]{size:9}，就需要非常冷的流体。
+它会产生§stack[minecraft:cobblestone]{size:9}、§stack[minecraft:stone]{size:9} 或者§stack[minecraft:obsidian]{size:9} 。你提供的冷却温度决定了它将产生哪种方块。§stack[minecraft:cobblestone]{size:9}是最基本的产物，由空气、流动的水等产生。水源将产生§stack[minecraft:stone]{size:9}，但是水会被消耗。想要产生§stack[minecraft:obsidian]{size:9}，就需要非常冷的流体。
 
 像所有的机器一样，它需要一个§link[enderio:machines/capacitors]{alt_text:"电容"} 才能工作。
 
