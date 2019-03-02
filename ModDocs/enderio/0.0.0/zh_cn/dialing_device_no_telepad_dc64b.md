@@ -1,5 +1,5 @@
-See §link[enderio:dialing_device]{alt_text:"Dialing Device"}.
+访问§link[enderio:dialing_device]{alt_text:"坐标记录仪"}.
 
-There is no §link[enderio:tele_pad]{alt_text:"TelePad"} in range. You can click the "Show Range" button in the top right corner to see where a TelePad must be to be usable from this Dialing Device.
+没有§link[enderio:tele_pad]{alt_text:"传送台"} 在范围内。您可以单击右上角的“显示范围”按钮，查看此设备可识别的位置。
 
-Note: The Dialing Device is designed to be used when standing **on** the TelePad.
+注意：传送仅作用于在传送台。
