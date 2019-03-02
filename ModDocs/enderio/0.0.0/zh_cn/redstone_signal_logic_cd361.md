@@ -1,5 +1,5 @@
 §align:center
-###### §nRedstone Filters§n
+###### §n红石过滤器§n
 §stack[enderio:item_material,1,60]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_not_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_or_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_and_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_nor_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_nand_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_xor_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_xnor_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_toggle_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_counting_filter]{size:18,enable_tooltip:false}§stack[enderio:item_redstone_timer_filter]{size:18,enable_tooltip:false}
 §align:left
 

@@ -1,10 +1,10 @@
 §align:center
-###### §nAdvanced Big Item Filter§n
+###### §n高级大型物品过滤器§n
 §stack[enderio:item_big_advanced_item_filter]{size:18,enable_tooltip:false} 
 §align:left
-The Big Item Filter allows you to filter for up to 36 items
+高级大型物品过滤器可以设置最多36个物品。
 
-It supports the same options as the §link[enderio:basic_item_filter_advanced]{alt_text:"Advanced Item Filter"}.
+§link[enderio:basic_item_filter_advanced]{alt_text:"高级大型物品过滤器"}支持的它都支持。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 

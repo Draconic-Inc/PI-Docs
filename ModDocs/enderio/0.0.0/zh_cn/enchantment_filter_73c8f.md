@@ -1,16 +1,16 @@
 §align:center
-###### §n(Big) Enchantment Item Filter§n
+###### §n（大型）附魔过滤器§n
 §stack[enderio:item_enchantment_filter_normal]{size:18,enable_tooltip:false}§stack[enderio:item_enchantment_filter_big]{size:18,enable_tooltip:false}  
 §align:left
-The (Big) Enchantment Item Filter allows you to filter based upon enchantments an item has.
+（大型）附魔过滤器可以根据物品具有的附魔进行过滤。
 
-It has 5/10 slots you can set to any kind of enchantment by clicking an item that is enchanted into. If the item has multiple enchantments, they all will be added if there are free slots for them.
+它有5/10个插槽，您可以通过单击被附魔的物品设置为任何类型的附魔。如果该物品具有多个附魔，则如果有未指定插槽，则会添加所有的附魔。
 
-When it is initially crafted, the enchantment that was used to craft it is already set.
+合成时，它的过滤器就已经设定好了。
 
-It can be switched between whitelist (only items listed are allowed) and blacklist (all items *but* the listed ones are allowed.
+它可以在白名单和黑名单之间切换。
 
-This filter also supports "sticky" mode. When items match any filter that is in sticky mode they will only ever be delivered to sticky filters even if another filter would permit them.
+此过滤器还支持“粘滞”模式。 当项目匹配任何处于粘滞模式的过滤器时，即使另一个过滤器允许通过，它们也只会被传送到粘滞的过滤器。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 

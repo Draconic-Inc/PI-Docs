@@ -1,5 +1,10 @@
 [
   {
+    "page_uri": "enderio:basic_item_filter_big",
+    "translation": "大型物品过滤器",
+    "page_rev": 0
+  },
+  {
     "page_uri": "enderio:lava_generator",
     "translation": "熔岩热交换器",
     "page_rev": 0
@@ -7,6 +12,71 @@
   {
     "page_uri": "enderio:",
     "translation": "末影接口",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:redstone_signal_logic",
+    "translation": "红石过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:soul_filter",
+    "translation": "（大型）灵魂过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:basic_item_filter",
+    "translation": "基础物品过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:external_connection",
+    "translation": "管道",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:enchantment_filter",
+    "translation": "（大型）附魔过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:fluid_filter",
+    "translation": "流体过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:furnace",
+    "translation": "简易电炉",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:basic_item_filter_advanced",
+    "translation": "高级物品过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:sag_mill",
+    "translation": "SAG磨粉机",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:basic_item_filter_advanced_limited",
+    "translation": "限制物品过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:mod_item_filter",
+    "translation": "模组物品过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:basic_item_filter_advanced_big",
+    "translation": "高级大型物品过滤器",
+    "page_rev": 0
+  },
+  {
+    "page_uri": "enderio:power_item_filter",
+    "translation": "充能物品过滤器",
     "page_rev": 0
   },
   {

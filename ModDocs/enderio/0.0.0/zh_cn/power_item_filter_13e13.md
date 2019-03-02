@@ -1,16 +1,16 @@
 §align:center
-###### §nPower Item Filter§n
+###### §n充能物品过滤器§n
 §stack[enderio:item_power_item_filter]{size:18,enable_tooltip:false} 
 §align:left
-The Mod Item Filter allows you to filter based upon the amount of energy (µI or Forge Energy) that is stored in an item.
+充能物品过滤器可以根据物品中存储的能量（μI或FE）进行过滤。
 
-It has two buttons that allow you to set how it filters:
+它有两个按钮，可让您设置过滤方式：
 
-The left button determines if an item must have "more", "more or equal", "less", "less or equal", or "equal" amounts of energy to the configured value. Please note that "equal" only works well for "100%" (completely full) because items don't usually use their energy in 1µI steps.
+左边的按钮确定能量<，>，<=，>=或=所设数值。请注意，“相等”仅适用于“100％”（完全充满），因为物品通常不会以1μI一次使用它们的能量。
 
-The right button determines the value to compare to: 0%, 25%, 50%, 75% or 100%. The percentage is relative to the maximum amount of energy stored in the item.
+右边的按钮确定要比较的值：0％，25％，50％，75％或100％。 百分比是相对于物品中最多能存储的能量。
 
-§4§nNote:§r This filter depends on the *item* correctly reporting its energy level.
+§4§n注意：§r此过滤器取决于*物品*能正确读取其能量水平。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 

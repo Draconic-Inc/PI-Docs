@@ -1,16 +1,16 @@
 §align:center
-###### §nLimited Item Filter§n
+###### §n限制物品过滤器§n
 §stack[enderio:item_limited_item_filter]{size:18,enable_tooltip:false} 
 §align:left
-The Limited Item Filter allows you to filter based on the number of items in the source or target inventory.
+“限制物品过滤器”允许您根据源或目标库存中的物品数量来进行过滤。
 
-You can set the number of items by clicking an item stack of the right size into the filter slot or adjusting the filter slot with the mouse wheel.
+您可以通过使用堆叠的物品单击过滤器槽或使用鼠标滚轮调整过滤器槽来设置数量。
 
-When used on the extraction side: The configured number specifies how much should be left behind *per slot*.
+在提取中使用时：配置的数字指定每个格子*应留下多少物品*。
 
-When used on the insertion side: The configured number specifies how much should be inserted at most for the *whole inventory*.
+在输入侧使用时：配置的数字指定最多为*整个容器*输入多少。
 
-It also supports most of the options of the §link[enderio:basic_item_filter_advanced]{alt_text:"Advanced Item Filter"}.
+§link[enderio:basic_item_filter_advanced]{alt_text:"高级物品过滤器"}支持的它都支持。
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 
