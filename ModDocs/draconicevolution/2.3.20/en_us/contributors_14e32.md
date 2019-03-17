@@ -19,7 +19,7 @@ I must also thank Sn0wshepherd for her contribution to DE. Almost all of the tex
 §rule{colour:0x606060,height:3,width:100%}
  
 ##### §b§nPatreon§n§b
-§aThe following people are supporting me on patreon! The support these people give really helps make what I do possible. For this, I owe them all a debt of gratitude.
+§aThe following people are supporting me or have previously supported me on patreon! The support these people give really helps make what I do possible. For this, I owe them all a debt of gratitude.
 
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,1*">
@@ -125,34 +125,42 @@ I must also thank Sn0wshepherd for her contribution to DE. Almost all of the tex
 </tr>
 <tr>
 <td>
-
+§6Connor Love
+§r(Since 18/07/2017)§r
 </td>
 <td>
-
-</td>
-</tr>
-<tr>
-<td>
-
-</td>
-<td>
-
+§6Keith Wagner
+§r(Since 20/10/2017)§r
 </td>
 </tr>
 <tr>
 <td>
-
+§6awk1995
+§r(Since 26/02/2018)§r
 </td>
 <td>
-
+§6boredi
+§r(Since 28/04/2018)§r
 </td>
 </tr>
 <tr>
 <td>
-
+§6King_Kookie_
+§r(Since 02/08/2018)§r
 </td>
 <td>
-
+§6lucid4
+§r(Since 07/02/2019)§r
+</td>
+</tr>
+<tr>
+<td>
+§6Kris K
+§r(Since 28/02/2019)§r
+</td>
+<td>
+§6Paddycboy
+§r(Since 01/03/2019)§r
 </td>
 </tr>
 <tr>
