@@ -1,7 +1,7 @@
 
 §align:center
 §colour[#FF9900]
-## Getting Started
+## 开始
 §align:left
 
-To get started, use a Thaumometer to scan an Annihilation Core §stack[appliedenergistics2:material,1,44]{size:8} or a Formation Core §stack[appliedenergistics2:material,1,43]{size:8} and start researching!
+请使用魔导透镜扫描破坏核心§stack[appliedenergistics2:material,1,44]{size:10}或者成型核心§stack[appliedenergistics2:material,1,43]{size:10}来解锁并使用！

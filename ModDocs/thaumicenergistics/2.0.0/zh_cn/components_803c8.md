@@ -1,11 +1,11 @@
 
 §align:center
 §colour[#FF9900]
-## Components
-Crafting Components used in other recipes
+##组件
+制作mod中的物品所需要的
 §align:left
 
-###### Diffusion Core and Coalescence Core
+###### 扩散核心和聚集核心
 §recipe[thaumicenergistics:diffusion_core]{spacing:4} §recipe[thaumicenergistics:coalescence_core]{spacing:4}
 
 ###### Essentia Storage Component
