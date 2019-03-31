@@ -12,3 +12,12 @@ Everything PI does is open-source and completely transparent. All documentation 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §align:left
 §cThis doc is a work in progress. Oh the irony... I spent so much time writing a documentation mod that I don't have time to document the documentation mod...
+
+§align:left
+§table{width:100%,colour:0x0,render_cells:false} 
+<table column_layout="1*,90">
+<tr padding="2,0,1,3" align="middle">
+	<td>§colour[0x088700]§link[http://partners.creeper.host/r/brandon30557nc]{tooltip:"Use this link to get a 15% discount on your first month!",alt_text:I am partnered with Creeper Host. If you need to rent a server at a fair price i suggest you check them out!}</td>
+	<td>§img[http://ss.brandon3055.com/0f927]{tooltip:"Use this link to get a 15% discount on your first month!",width:100%,link_to:"http://partners.creeper.host/r/brandon30557nc"}</td>
+</tr>
+</table>
