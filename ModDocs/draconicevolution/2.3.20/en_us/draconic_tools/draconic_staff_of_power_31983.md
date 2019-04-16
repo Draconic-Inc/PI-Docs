@@ -1,5 +1,5 @@
 §align:center
-##### §nDraconic §n
+##### §nDraconic Staff of Power§n
 
 §img[http://ss.brandon3055.com/ff9df]{width:64}
 
