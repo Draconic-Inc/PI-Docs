@@ -1,8 +1,8 @@
 §align:center
 ##### §n稳定刷怪笼§n
- 
- 
-§table{width:100%,render_cells:false} 
+
+
+§table{width:100%,render_cells:false}
 <table column_layout="1*,1*,1*,1*">
 <tr align = "center">
 	<td>###### §n基础/td>
