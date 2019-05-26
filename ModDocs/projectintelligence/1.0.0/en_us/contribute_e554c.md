@@ -4,6 +4,8 @@
 
 In the mean time, feel free to play with the editor and write documentation. 
 I do have the ability to manually add/update documentation if needed, but I would prefer that you wait until the automated system is complete.
+
+§cEdit: on second thought covers is kinda busy with other projects so for the moment this will have to remain a manual process.  
 §rule{colour:0xFF0000,height:2,padding:0,width:100%}
 
 For people who want to contribute by writing/updating/translating documentation:
