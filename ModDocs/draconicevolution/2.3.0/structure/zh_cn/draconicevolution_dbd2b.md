@@ -11,7 +11,7 @@
 
 ABC...LMN§cDraconic Evolution§rQR...WXYZ
 §rule{colour:0x606060,height:3,width:100%,bottom_pad:4}
-Draconic Evolution是一款将魔法和科技融合在一起的mod，为您提供极其强大的工具。 这是DE添加的一些内容的总结。
+Draconic Evolution是一款将魔法和科技融合在一起的mod，为你提供极其强大的工具。 这是DE添加的一些内容的总结。
 §rule{colour:0x606060,height:3,width:100%,top_pad:3,bottom_pad:0}
 
 // ##########################################################################
@@ -47,7 +47,7 @@ DE目前增加了2种可升级的工具和盔甲。
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,130">
 <tr>
-	<td>我要感谢为这个mod做视频的每个人！ 您可以通过以下链接找到视频列表。</td>
+	<td>我要感谢为这个mod做视频的每个人！ 你可以通过以下链接找到视频列表。</td>
 	<td align="middle right">§link[draconicevolution:spotlights]{alt_text:Mod Spotlights,colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:5,left_pad:12,right_pad:13,link_style:vanilla}</td>
 </tr>
 </table>
@@ -67,7 +67,7 @@ DE目前增加了2种可升级的工具和盔甲。
 §table{width:100%,colour:0x0,render_cells:false} 
 <table column_layout="1*,90">
 <tr padding="2,0,1,3" align="middle">
-	<td>§colour[0x088700]§link[http://partners.creeper.host/r/brandon30557nc]{tooltip:"使用此链接可在第一个月获得15％的折扣！",alt_text:我与Creeper Host合作。 如果您需要以合理的价格租用服务器，我建议您看看！}</td>
+	<td>§colour[0x088700]§link[http://partners.creeper.host/r/brandon30557nc]{tooltip:"使用此链接可在第一个月获得15％的折扣！",alt_text:我与Creeper Host合作。 如果你需要以合理的价格租用服务器，我建议你看看！}</td>
 	<td>§img[http://ss.brandon3055.com/0f927]{tooltip:"使用此链接可在第一个月获得15％的折扣！",width:100%,link_to:"http://partners.creeper.host/r/brandon30557nc"}</td>
 </tr>
 </table>
