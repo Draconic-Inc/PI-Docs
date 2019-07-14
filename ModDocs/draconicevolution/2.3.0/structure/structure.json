@@ -2,7 +2,7 @@
   "mod_id": "draconicevolution",
   "mod_version": "2.3.0",
   "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
-  "verified": false,
+  "verified": true,
   "file": "draconicevolution_dbd2b.md",
   "cycle_icons": false,
   "pages": [

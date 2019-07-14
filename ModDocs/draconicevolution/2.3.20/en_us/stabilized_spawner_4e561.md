@@ -1,8 +1,8 @@
 §align:center
 ##### §nStabilized Spawner§n
-
-
-§table{width:100%,render_cells:false}
+ 
+ 
+§table{width:100%,render_cells:false} 
 <table column_layout="1*,1*,1*,1*">
 <tr align = "center">
 	<td>###### §nBasic</td>
