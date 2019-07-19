@@ -2,7 +2,7 @@
   "mod_id": "travellersbackpack",
   "mod_version": "0.0.0",
   "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
-  "verified": false,
+  "verified": true,
   "file": "travellersbackpack_9936b.md",
   "icons": [
     {
