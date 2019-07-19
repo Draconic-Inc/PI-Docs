@@ -1,0 +1,114 @@
+{
+  "mod_id": "travellersbackpack",
+  "mod_version": "0.0.0",
+  "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
+  "verified": false,
+  "file": "travellersbackpack_9936b.md",
+  "icons": [
+    {
+      "type": "stack",
+      "icon_string": "travellersbackpack:travellers_backpack"
+    }
+  ],
+  "cycle_icons": false,
+  "pages": [
+    {
+      "id": "the_traveller's_backpack",
+      "file": "the_traveller's_backpack_ce57f.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "travellersbackpack:travellers_backpack"
+        }
+      ],
+      "pages": [
+        {
+          "id": "backpack_designs",
+          "file": "the_traveller's_backpack/backpack_designs_755ca.md",
+          "cycle_icons": false,
+          "hidden": false,
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "travellersbackpack:travellers_backpack,1,24"
+            }
+          ]
+        },
+        {
+          "id": "backpack_gui",
+          "file": "the_traveller's_backpack/backpack_gui_e4d39.md",
+          "cycle_icons": false,
+          "hidden": false,
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "minecraft:item_frame"
+            }
+          ]
+        },
+        {
+          "id": "placing_down",
+          "file": "the_traveller's_backpack/placing_down_977a9.md",
+          "cycle_icons": false,
+          "hidden": false,
+          "icons": [
+            {
+              "type": "stack",
+              "icon_string": "minecraft:grass_path"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sleeping_bag",
+      "file": "sleeping_bag_5911a.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "travellersbackpack:sleeping_bag_bottom"
+        }
+      ]
+    },
+    {
+      "id": "backpack_tank",
+      "file": "backpack_tank_11383.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "travellersbackpack:backpack_tank"
+        }
+      ]
+    },
+    {
+      "id": "hose",
+      "file": "hose_dd4a3.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "travellersbackpack:hose"
+        }
+      ]
+    },
+    {
+      "id": "hose_nozzle",
+      "file": "hose_nozzle_bc65c.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "icon_string": "travellersbackpack:hose_nozzle"
+        }
+      ]
+    }
+  ]
+}
