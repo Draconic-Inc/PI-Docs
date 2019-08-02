@@ -1,6 +1,6 @@
 §align:center
-##### §nEnergy Storage Core§n
-The ultimate energy storage device.
+##### §nЭнергетическое ядро§n
+Максимальное хранилище энергии.
 
 §img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Energy%20Core/Energy%20Core%20T8.jpg]{width:100%} 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
@@ -22,12 +22,12 @@ The ultimate energy storage device.
 | §6Уровень 7	| §b2.14 Триллиона RF	|
 | §6Уровень 8	| §b...				|
 
-Ok so about the tier 8... I'm not going to lie to you and tell you that its "Infinite" But its as close as you're going to get. 
+Хорошо, что касается уровня 8... Я не собираюсь вам лгать и рассказывать вам, что оно «Бесконечное», но вы очень близко...
 
-Unless someone makes a mod that has, even more, storage but considering that the amount of storage this thing has is already just stupid well... 
-I would have to question that person's sanity... Almost as much as I question my own.
+Если кто-то создаст мод, с еще больших энергохранилищем, учитывая объем хранилища, который есть у этой штуки, это уже просто глупо... 
+Мне придется усомниться в здравомыслии этого человека... Почти так же, как я сомневаюсь в своём собственном.
 
-As for Tier 8's actual capacity... Well... Its a §link[https://en.wikipedia.org/wiki/9223372036854775807]{alt_text:"BIG NUMBER!"}
+Что касается фактической вместимости 8 уровня... Ну... Это §link[https://en.wikipedia.org/wiki/9223372036854775807]{alt_text:"BIG NUMBER!"}
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 ###### §nРецепт§n
