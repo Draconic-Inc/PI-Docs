@@ -1,36 +1,36 @@
 §align:center
-##### §nFusion Upgrades§n
+##### §nСистема улучшений§n
 
-Using the fusion crafting system it is possible to upgrade your tools and weapons.
-To do this you will need an upgrade key for the upgrade you want 
-and the required ingredients for the upgrade level you want to apply.
+Используя систему слияния, вы можете улучшить свои инструменты и оружие.
+Для этого вам понадобится ядро улучшения,
+а также необходимые ингридиенты для того уровня улучшения, который вы хотите применить.
 
-Most upgrades have 4 tiers. Basic, Wyvern, Draconic, and Chaotic (Note: chaotic cannot yet be applied to any items)
-You must have the previous tier applied before you can apply a higher tier upgrade.
+Большиство улучшений имеют 4 уровня: Базовый, Виверны, Дракона, и Хаоса (Примечание: уровень Хаоса еще нельзя применить ни к каким предметам)
+Перед улучшением предмета на уровень выше, необходимо иметь предыдущий .
 
-Each upgrade tier requires different ingredients and its respective tier fusion crafter.
-To find the ingredients required for an upgrade key, simply hover over the key in your inventory and hold shift.
-You will see a list of all ingredients required. It will cycle through the tiers every 5 seconds.
-To pause the display, simply hold CTRL as well. Try it on some of the keys below. 
+Каждый уровень улучшения требует различных ингридиентов и инжекторов того же уровня.
+Чтобы увидеть какие ингредиенты необходимы для улучшения, просто наведите курсор на ядро в инвентаре и удерживайте нажатой клавишу Shift.
+Вы увидите список всех необходимых ингредиентов. Он будет переключаться между уровнями каждые 5 секунд.
+Чтобы приостановить просмотр, просто удерживайте клавишу CTRL. Попробуйте это на некоторых ядрах ниже.
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 
 §table{width:100%,border_colour:0xffffff,vert_align:middle,padding:2,render_cells:true}
 | :n126: | :--------------- |
-| §recipe[draconicevolution:tool_upgrade,1,0]{spacing:0} | Increases the RF capacity of items it's applied to. |
-| §recipe[draconicevolution:tool_upgrade,1,1]{spacing:0} | Increases the dig speed of tools it's applied to. |
-| §recipe[draconicevolution:tool_upgrade,1,2]{spacing:0} | Increases the AOE (Area Of Effect) of tools. |
-| §recipe[draconicevolution:tool_upgrade,1,3]{spacing:0} | Increases the attack damage of weapons. |
-| §recipe[draconicevolution:tool_upgrade,1,4]{spacing:0} | Increases the attack AOE (Area of effect) of weapons. |
-| §recipe[draconicevolution:tool_upgrade,1,5]{spacing:0} | Increases the max arrow damage of bows. |
-| §recipe[draconicevolution:tool_upgrade,1,6]{spacing:0} | Increases the draw speed of bows. |
-| §recipe[draconicevolution:tool_upgrade,1,7]{spacing:0} | Increases the arrow speed of bows. |
-| §recipe[draconicevolution:tool_upgrade,1,8]{spacing:0} | Increases armor shield capacity. |
-| §recipe[draconicevolution:tool_upgrade,1,9]{spacing:0} | Reduces armor shield recovery time. |
-| §recipe[draconicevolution:tool_upgrade,1,10]{spacing:0} | Increases movement speed when applied to boots. |
-| §recipe[draconicevolution:tool_upgrade,1,11]{spacing:0} | Increases jump power when applied to boots. |
+| §recipe[draconicevolution:tool_upgrade,1,0]{spacing:0} | Увеличивает максимальную ёмкость RF. |
+| §recipe[draconicevolution:tool_upgrade,1,1]{spacing:0} | Увеличивает скорость копания инструментов. |
+| §recipe[draconicevolution:tool_upgrade,1,2]{spacing:0} | Увеличивает область копания у инструментов. |
+| §recipe[draconicevolution:tool_upgrade,1,3]{spacing:0} | Увеличивает урон оружия. |
+| §recipe[draconicevolution:tool_upgrade,1,4]{spacing:0} | Увеличивает область атаки у оружия. |
+| §recipe[draconicevolution:tool_upgrade,1,5]{spacing:0} | Увеличивает максимальный урон стрел на луке. |
+| §recipe[draconicevolution:tool_upgrade,1,6]{spacing:0} | Увеличивает скорость натяжения у луков. |
+| §recipe[draconicevolution:tool_upgrade,1,7]{spacing:0} | Увеличивает скорость полёта стрелы из лука. |
+| §recipe[draconicevolution:tool_upgrade,1,8]{spacing:0} | Увеличивает ёмкость щита. |
+| §recipe[draconicevolution:tool_upgrade,1,9]{spacing:0} | Сокращает время восстановления щита. |
+| §recipe[draconicevolution:tool_upgrade,1,10]{spacing:0} | Увеличивает скорость передвижения, если применено к ботинкам. |
+| §recipe[draconicevolution:tool_upgrade,1,11]{spacing:0} | Увеличивает высоту прыжка, если применено к ботинкам. |
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Note these upgrades are only applicable to Draconic Evolution items or other mods items if they support the upgrade API.
-§link[draconicevolution:fusion_crafting]{alt_text:"Click here to learn more about fusion crafting!"}
+Обратите внимание, что эти улучшения применимы только к предметам из Draconic Evolution или другим модам, если они поддерживают API улучшений.
+§link[draconicevolution:fusion_crafting]{alt_text:"Нажмите здесь, чтобы узнать больше о слиянии!"}
 §rule{colour:0x606060,height:3,width:100%}

@@ -1,31 +1,31 @@
 §align:center
-##### §nRegulation and Safety Systems§n
-So you have a working reactor. Now its time to make sure it does not explode!
+##### §nСистема управления и обеспечения безопасности§n
+Итак, у вас есть работающий реактор. Теперь пришло время убедиться, что он не взорвётся!
 §rule{colour:0x606060,height:1,width:100%}
-There are a number of ways you can manage your reactor. The first being to just do it manually. This is fine in theory, as long as you get a stable balance between power supplied to the field and power extracted from the core it "should" be fine... As the core burns through its fuel and the effiency increases the shield strength should only increase. But if you want to be able to tweak your power settings to get more from your reactor as its efficency increases, or even if you dont its nice to have some system to help prevent a nasty explosion.
+Есть несколько способов управлять своим реактором. Во-первых, просто делать это вручную. Это теоретически возможно, пока вы можете достичь стабильного баланса между энергией, подаваемой на сдерживающее поле, и энергией, извлекаемой из ядра, это не должно быть проблемой...  По мере того как реактор перерабатывает топливо, эффективность повышается, и сила сдерживающего поля должна увеличиваться. Но если вы хотите иметь возможность регулировать мощность, чтобы получить больше от вашего реактора по мере повышения его эффективности, или даже если вам хочется иметь какую-то систему, чтобы предотвратить неприятный взрыв.
 
 §rule{colour:0x606060,height:1,width:100%,padding:0}
 
-######§nRedstone Control
-Yes you can regulate your reactor using nothing but vanilla redstone! though using a mod like project red can make things a lot cleaner!
+######§nКонтроль редстоуном
+Да, вы можете регулировать свой реактор, используя только ванильный Редстоун! Хотя с помощью мода, как Project Red можно сделать это намного лучше!
 
-Redstone regulation can be achived by using comparators to read stats like shield strength and then use ing that signal to adjust flux gates.
+Контроль редстоуном осуществляется с помощью Компаратора. Присоединив компаратор к одному из стабилизаторов или к инжектору, вы можете визуально считывать четыре индикатора стабилизаторов, отображаемых в интерфейсе реактора (Температура, сила Сдерж. поля и т.д.)
 
-You can attach a comparator to any of the stabilizers or the injector. Opening the if you open the UI of the component you will be able to set the comparator behavior for that specific component.
+В интерфейсе реактора, вы можете установить какой именно индикатор будет считывать присоединённый компаратор.
 
-Its also a good idea to have a comparator reading the fuel conversion level. Use that to shut down the reactor using fail-safe mode when the conversion level gets to high.
+Также неплохо иметь компаратор, считывающий кол-во преобразованного топлива. Вы можете использовать его, чтобы отключить реактор в безопасном режиме, когда кол-во преобразованного топлива становится высоким.
 
 
 §rule{colour:0x606060,height:1,width:100%,padding:0}
 
-######§nComputer Control
-If you know how to program in lua you can take things a step further and control your reactor with Open Computers or Computer Craft!
+######§nКонтроль компьютерами
+Если вы умеете программировать на языке lua, вы можете сделать еще один шаг вперед и управлять своим реактором с помощью Open Computers или Computer Craft!
 
-Attaching a computer to a stabilizer or energy injector exposes 5 methods.
+Методы по реализации сдесь довольно просты и существует их 5.
 
 §ngetReactorInfo
 §rule{height:3,padding:0}
-This returns a table containing the following
+Доставляет информацию из массива, а именно:
 temperature
 fieldStrength
 maxFieldStrength
@@ -41,25 +41,25 @@ failSafe
 
 §nchargeReactor
 §rule{height:3,padding:0}
-Calling this is equivelent to pressing the Charge button in the GUI.
+Делает тоже самое, что и кнопка Зарядки в интерфейсе реактора.
 
 §nactivateReactor
 §rule{height:3,padding:0}
-Calling this is equivelent to pressing the Activate button in the GUI.
+Делает тоже самое, что и кнопка Включения в интерфейсе реактора.
 
 §nstopReactor
 §rule{height:3,padding:0}
-Calling this is equivelent to pressing the Shut Down button in the GUI.
+Делает тоже самое, что и кнопка Выключения в интерфейсе реактора.
 
 §nsetFailSafe
 §rule{height:3,padding:0}
-This allows you to enable/disable failsafe mode.
+Позволяет вам включать/отключать режим отказоустойчивости.
 
  
-You can also control the flux gates directly with your computer. Check out the §link[draconicevolution:flow_gates]{alt_text:"Flux Gate"} page for more information.
+Вы также можете управлять энергетическим ограничителем с помощью компьютера. Посетите эту статью §link[draconicevolution:flow_gates]{alt_text:"Ограничители"}для получения дополнительной информации.
  
 §rule{colour:0x606060,height:3,width:100%,padding:0}
 
-A word of warning. As unlikely as it is make sure you dont consume power from your storage system faster then the reactor can generate it. If you run out of power you wont be able to maintain your reactors shield strength. I recommend using a third flux gate to regulate how much power is extracted from the core by your base and anything else that is using power. Keep that gate set lower than the generation rate - field input rate of your reactor.
+Одно предупреждение. Хотя это маловероятно, убедитесь, что ваша система хранения не потребляет больше энергии, чем вырабатывает реактор. Если у вас закончится энергия, вы не сможете поддерживать сдерживающее поле ректора. Я рекомендую использовать третий энергетический ограничитель чтобы контролировать сколько энергии потребляет ваша база и всё что использует энергию на ней. 
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}

@@ -5,31 +5,29 @@
 §stack[draconicevolution:reactor_core]{size:64} §stack[draconicevolution:reactor_component]{size:64} §stack[draconicevolution:reactor_component,1,1]{size:64}
 §align:left
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
-Так ты хочешь энергии? Безумное количество энергии? Ну, вы пришли по адресу! Реактор Дракона является одним из самых мощных и эффективных генераторов в мире! Но с большой силой приходит большой потенциал для разрушения! Поэтому убедитесь, что вы прочитали инструкцию, прежде чем начать!
+Так ты хочешь энергии? Безумное количество энергии? Ну, вы пришли по адресу! Дракониевый Реактор является одним из самых мощных и эффективных генераторов в мире! Но с большой силой приходит большой потенциал для разрушения! Поэтому убедитесь, что вы прочитали инструкцию, прежде чем начать!
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §img[http://ss.brandon3055.com/366f2]{width:100%}
 §rule{colour:0x606060,height:3,width:100%}
 Реактор состоит из 6 основных компонентов: 4 Стабилизатора реактора, Ядро реактора и Энергетический инжектор. Вам понадобятся, по крайней мере, 2 §link[draconicevolution:flow_gates]{alt_text:"Энергетических Ограничителя"}, чтобы регулировать реактор.
 
-The reactor layout is fairly simple. The reactor core goes in the center with the 4 stabilizers placed in a ring around it. The stabilizers can ba placed in a horizontal ring around the reactor as shown in the picture above or they can ve in a vertical ring with stabilizers above and bellow the reactor (similar to the stabilizer placement for the energy core)
+Постройка реактора довольно простая. Ядро реактора должна быть расположено в центре, а вокруг него расположено 4 стабилизатора. Стабилизаторы могут быть размещены в горизонтальном кольце вокруг реактора, как показано на изображении выше, или в вертикальном кольце, со стабилизаторами сверху и снизу реактора.
 
-Next place the energy injector on one of the remaining 2 sides facing the core. For a max size reactor the stabilizers and injectors should be atleast 4 blocks away from the reactor. As the reactor heats up it will expand and if it colides with the injector or stabilizers they will be destroyed resulting in a catastrophic falure.
+Затем поместите Энергетический Инжектор на одну из оставшихся 2-ух сторон. Поэтому если вы хотите, чтобы реактор работал на полную мощность, ставьте стабилизаторы хотябы на 4 блока от ядра. По мере нагревания реактора, он будет расширяться, и если на пути расширяющейся оболочки ядра окажутся инжекторы или стабилизаторы, они будут уничтожены, что приведёт к катастрофе.
 
-To run the reactor safely you will need a large energy buffer such as a §link[draconicevolution:energy_storage_core]{alt_text:"Draconic Energy Core"}. You will also need a substantial amount of energy to kick start the reactor.
+Для безопасного запуска реактора вам понадобится большой энергетический буфер, такой как §link[draconicevolution:energy_storage_core]{alt_text:"Энергетическое ядро"}. Вам также понадобится значительное количество энергии, чтобы запустить реактор.
 
-The final step is to setup the Flux Gates. Use one to regulate power flowing from your energy storage to the energy injector. Use the other to regulate the energy flow from the back of one of the reactor stabilizers to your energy storage. 
+Последним шагом будет установка Энергетических Ограничителей. Используйте один, чтобы регулировать мощность потока, поступающего из вашего энергохранилища в энергетический инжектор. А другой, чтобы регулировать выходящий поток энергии из задней части одного из стабилизаторов реактора.
 
-Note for a max size reactor the energy transfer system you use should be able to handle several hundred thousand RF per tick. I recommend atleast wyvern tier energy crystals (do not use wireless) or cryo-stabilized fluxducts.
+Обратите внимание, что для реактора максимального размера система передачи энергии, которую вы используете, должна быть способна обрабатывать несколько сотен тысяч RF за тик. Я рекомендую по крайней мере использовать энергетические кристаллы уровня Виверны (не используйте беспроводные) или криостабилизированные флаксовые трубы из Thermal Dynamics.
 
-And with that you have a minimal reactor setup capable of generating power!
+##### §4§nПредупреждение!
+Если вы попытаетесь запустить реактор в этот момент, не понимая, как он работает, я могу почти гарантировать, что вы получите гигантский дымящийся кратер, в месте где раньше была ваша база!
 
-##### §4§nWarning!
-If you try to run the reactor at this point without first understanding how it works i can almost guarantee you will end up with a giant smoking crator where your base used to be!
+Если вы еще не знаете, как работает реактор, я рекомендую по крайней мере прочитать статью, которая объясняет §link[draconicevolution:draconic_reactor/basic_operation]{alt_text:"Основной принцип его работы"}, прежде чем продолжить. Также имейте в виду, что реактор, который вы построили на данный момент, не имеет §link[draconicevolution:draconic_reactor/regulation_and_safety]{alt_text:"Системы управления и обеспечения безопасности"} для экстренного отключения, если что-то пойдёт не так.
 
-If you dont already know how the reactor works i recommend atleast reading the page that explains the §link[draconicevolution:draconic_reactor/basic_operation]{alt_text:"Basic Operating Principle"} before you continue. Also keep in mind the reactor you have built at this point has no §link[draconicevolution:draconic_reactor/regulation_and_safety]{alt_text:"Regulation or Safety Systems"} to shut it down if somethign goes wrong.
-
-And lastly i would just like to say this reactor is definitely not for everyone. If you want you can probably find a step by step tutorial to get a working reactor but if you dont actually understand what the reactor is doing your just asking for trouble. If your a very technical minded individual like myself then by all means dive in and have fun! But if you are unable to grasp the complexities of this reactor i recommend you steer clear and find a safer power gen alternative.
+И, наконец, я просто хотел бы сказать, что этот реактор, безусловно, не для всех. Если вы захотите, вы, вероятно, сможете найти пошаговое руководство по постройке рабочего реактора, но если вы на самом деле не понимаете, как работает реактор, вы просто нарвётесь на неприятности. А если вы очень технически мыслящий человек, как я, то непременно погрузитесь и получите удовольствие! Но если вы не можете понять сложности этого реактора, я рекомендую вам держаться подальше и найти альтернативный, более безопасный источник получения энергии.
 
 §align:center
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
