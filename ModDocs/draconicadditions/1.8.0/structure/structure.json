@@ -1,6 +1,6 @@
 {
   "mod_id": "draconicadditions",
-  "mod_version": "1.7.0",
+  "mod_version": "1.8.0",
   "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
   "verified": false,
   "file": "draconicadditions_722bd.md",
@@ -411,6 +411,25 @@
           "icon_string": "draconicadditions:chaos_stabilizer_core"
         }
       ]
+    },
+    {
+      "id": "armor_generator",
+      "file": "armor_generator_7415f.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:armor_generator"
+        }
+      ]
+    },
+    {
+      "id": "chaos_liquifier",
+      "file": "chaos_liquifier_7a2a5.md",
+      "cycle_icons": false,
+      "hidden": false
     }
   ]
 }
