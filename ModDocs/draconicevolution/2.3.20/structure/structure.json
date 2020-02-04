@@ -1562,6 +1562,21 @@
               "icon_string": "draconicevolution:item_dislocation_inhibitor"
             }
           ]
+        },
+        {
+          "id": "power_portals",
+          "file": "dislocation/power_portals_2a601.md",
+          "cycle_icons": false,
+          "hidden": false,
+          "icons": [
+            {
+              "type": "stack",
+              "draw_slot": true,
+              "draw_hover": false,
+              "hover_text": "Link crystals via portals!",
+              "icon_string": "draconicevolution:crystal_binder,1,0,{\"draconicevolution:binder\":[I;-1,69,4]}"
+            }
+          ]
         }
       ]
     },
