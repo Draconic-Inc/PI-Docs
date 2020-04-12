@@ -1,6 +1,6 @@
 {
   "mod_id": "draconicadditions",
-  "mod_version": "1.7.0",
+  "mod_version": "1.10.0",
   "__verified_comment": "Do not change this to true. If you do so your PR will be automatically rejected.",
   "verified": false,
   "file": "draconicadditions_722bd.md",
@@ -409,6 +409,75 @@
           "type": "stack",
           "draw_hover": false,
           "icon_string": "draconicadditions:chaos_stabilizer_core"
+        }
+      ]
+    },
+    {
+      "id": "armor_generator",
+      "file": "armor_generator_7415f.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:armor_generator"
+        }
+      ]
+    },
+    {
+      "id": "chaos_liquifier",
+      "file": "chaos_liquifier_7a2a5.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:chaos_liquefier"
+        }
+      ]
+    },
+    {
+      "id": "item_drainer",
+      "file": "item_drainer_30005.md",
+      "cycle_icons": false,
+      "hidden": false,
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:item_drainer"
+        }
+      ]
+    },
+    {
+      "id": "portable_wired_charger",
+      "file": "portable_wired_charger_f2f41.md",
+      "cycle_icons": true,
+      "hidden": false,
+      "relations": [
+        {
+          "type": "STACK",
+          "content": "draconicadditions:portable_wired_charger",
+          "ignore_meta": true
+        }
+      ],
+      "icons": [
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:portable_wired_charger"
+        },
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:portable_wired_charger,1,1"
+        },
+        {
+          "type": "stack",
+          "draw_hover": false,
+          "icon_string": "draconicadditions:portable_wired_charger,1,2"
         }
       ]
     }
