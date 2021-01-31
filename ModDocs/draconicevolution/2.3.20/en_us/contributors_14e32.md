@@ -165,6 +165,72 @@ I must also thank Sn0wshepherd for her contribution to DE. Almost all of the tex
 </tr>
 <tr>
 <td>
+§6Quarnds
+§r(Since Mar 22, 2019)§r
+</td>
+<td>
+§6xtrux
+§r(Since Apr 15, 2019)§r
+</td>
+</tr>
+<tr>
+<td>
+§6jackkeane98
+§r(Since Feb 8, 2020)§r
+</td>
+<td>
+§6chaetay
+§r(Since Mar 22, 2020)§r
+</td>
+</tr>
+<tr>
+<td>
+§6STALlN
+§r(Since Apr 26, 2020)§r
+</td>
+<td>
+§6elfdafatpizza
+§r(Since May 11, 2020)§r
+</td>
+</tr>
+<tr>
+<td>
+§6muffinman_21
+§r(Since May 13, 2020)§r
+</td>
+<td>
+§6Munchkin
+§r(Since Jun 9, 2020)§r
+</td>
+</tr>
+<tr>
+<td>
+§6TheIcicle
+§r(Since Sep 20, 2020)§r
+</td>
+<td>
+§6Einhornyordle
+§r(Since Jan 31, 2021)§r
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+<tr>
+<td>
 
 </td>
 <td>
