@@ -9,9 +9,9 @@ Lets start by taking a look at the reactor GUI.
 §img[http://ss.brandon3055.com/b7494]{width:50%}
 
 §align:left
-In the top section there are 4 gages that give critical information about the reactor status. From left to right they are: 
+In the top section there are 4 gauges that give critical information about the reactor status. From left to right they are: 
 §rule{height:3,padding:0}
-§nTemperature:§n Pretty self explanitory this is the temperature of the core. Keep this bellow 8000 and you are golden!
+§nTemperature:§n Pretty self explanatory this is the temperature of the core. Keep this bellow 8000 and you are golden!
 §rule{height:3,padding:0}
 §nShield Strength:§n This is the strength of the shield preventing the reactor from exploding! You will want to find a nice balance for this. To high and the shield will consume more power than the reactor generates. To low and you risk §4catastrophic faliure§4.
 §rule{height:3,padding:0}
@@ -30,7 +30,7 @@ In the lower section you have.
 §nField Input Rate:§n This is the energy input required to maintain the current shield strength. The lower the shield strength the less energy is required to maintain it.
 §rule{height:3,padding:0}
 //
-§nFuel Conversion Rate:§n This is how fast the reactor is currently consuming fuel. It is measured nano buckets (1/1000th if a milli bucket) per tick.
+§nFuel Conversion Rate:§n This is how fast the reactor is currently consuming fuel. It is measured in nano buckets (1/1000th if a milli bucket) per tick.
 
 §rule{colour:0x606060,height:3,width:100%}
 //========================================================
@@ -51,15 +51,15 @@ This is where the reactor requires a substantial amount of power in order to sta
 
 Now that your reactor is running you must maintain a balance between the amount of energy you supply the containment field and the amount of energy you extract.
 
-The more power you pull from the reactor the more the reactors saturation will dropp. The reactor will compensate for this by increating its generation rate to match the rate at which you are extracting energy.
+The more power you pull from the reactor the more the reactors saturation will drop. The reactor will compensate for this by increating its generation rate to match the rate at which you are extracting energy.
 
-As the generation rate increases so does the reactor core temperature. This results in an increased load on the containment field that will result in a drop in containment field strength. If the core temperature goes beyond 8000c the containment field load will start to increas exponentially. At best resulting in horrible efficiency, at worst resulting in §4catastrophic faliure§4.
+As the generation rate increases so does the reactor core temperature. This results in an increased load on the containment field that will result in a drop in containment field strength. If the core temperature goes beyond 8000c the containment field load will start to increas exponentially. At best resulting in horrible efficiency, at worst resulting in §4catastrophic failure§4.
 
 The higher the core temperature the faster the reactor will burn fuel. The fusion of draconium in the core of the reactor produces the chaos element (the same element found in the center of a chaos island) 
 
-As the level of chaos within the core increases so does the reactivity of the draconium. This higher reactivity increases the efficiency of the reactor and means that over time as the fuel is converted you will be able to pull more and more power from the reactor while maintaining a stable temperature. This will increas to several million RF/t before you need to refule the reactor.
+As the level of chaos within the core increases so does the reactivity of the draconium. This higher reactivity increases the efficiency of the reactor and means that over time as the fuel is converted you will be able to pull more and more power from the reactor while maintaining a stable temperature. This will increase to several million RF/t before you need to refuel the reactor.
 
-§4[WARNING]§4 You MUST shut down and refuel the reactor BEFORE the conversion level reaches 100%! The chaos element is highly unstable and without some amound of draconoum in the core it can not be regulated. This will result in a runaway thermal reaction that can not be stopped! The core temperature increase uncontrollably until the containment field fails resulting in a catastrophic explosion.
+§4[WARNING]§4 You MUST shut down and refuel the reactor BEFORE the conversion level reaches 100%! The chaos element is highly unstable and without some amount of draconium in the core it can not be regulated. This will result in a runaway thermal reaction that can not be stopped! The core temperature increase uncontrollably until the containment field fails resulting in a catastrophic explosion.
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
@@ -67,7 +67,7 @@ As the level of chaos within the core increases so does the reactivity of the dr
 
 §4[WARNING]§4 Before you shut down your reactor make sure you have a significant backlog of power to supply the containment field while it shuts down!
 
-When you hit the stop button the reactor will immediately stop producing outputing power and start the shutdown process. This requires the reactor to charge its saturation to near 100% thus allowing the generation rate to drop which in tern allows the temperature to drop. Once the saturation passes around 99% the temperature will dropp bellow 2000c, fusion will cease and the reactor will enter the cool down mode. 
+When you hit the stop button the reactor will immediately stop producing power and start the shutdown process. This requires the reactor to charge its saturation to near 100% thus allowing the generation rate to drop which in turn allows the temperature to drop. Once the saturation passes around 99% the temperature will drop bellow 2000c, fusion will cease and the reactor will enter the cool down mode. 
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
@@ -83,7 +83,7 @@ At this point fusion has stopped and the containment field can shut down. Once t
 
 So this is the status message you never want to see. If you do end up in this situation... Well... I can only hope you have a good pair of running shoes!
 
-This mode is also pretty selfe explanatory. Its about to go BOOM! It will take anywere from a few seconds to several minutes to calculate exactly how long you have before detonation. Once that calculation is complete the GUI will give you a nice little ETA. This will usually be around a minute or two but you really shouldn't stick around to watch the fireworks...
+This mode is also pretty self explanatory. Its about to go BOOM! It will take anywere from a few seconds to several minutes to calculate exactly how long you have before detonation. Once that calculation is complete the GUI will give you a nice little ETA. This will usually be around a minute or two but you really shouldn't stick around to watch the fireworks...
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 //========================================================
