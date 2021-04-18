@@ -8,8 +8,8 @@
 
 Flight (Configurable)
 Removes mining slowdown while in the air
-Fire immunity
-+200 Base Shield Capacity
+Immune to Fire Damage
++204 Base Shield Capacity
 +3 Armor Toughness
 +8 Armor
 

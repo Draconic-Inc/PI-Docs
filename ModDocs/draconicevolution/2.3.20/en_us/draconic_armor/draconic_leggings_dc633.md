@@ -7,7 +7,7 @@
 §bStats
 
 Speed Boost (Configurable)
-+180 Base Shield Capacity
++153 Base Shield Capacity
 +3 Armor Toughness
 +6 Armor
 

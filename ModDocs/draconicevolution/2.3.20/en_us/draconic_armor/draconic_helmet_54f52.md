@@ -8,9 +8,9 @@
 
 Night Vision (Configurable)
 Cures negative potion effects
-Bypass suffocation and drowning damage
+Immune to suffocation and drowning damage
 Removes mining slowdown underwater (Aqua Affinity)
-+60 Base Shield Capacity
++76 Base Shield Capacity
 +3 Armor Toughness
 +3 Armor
 

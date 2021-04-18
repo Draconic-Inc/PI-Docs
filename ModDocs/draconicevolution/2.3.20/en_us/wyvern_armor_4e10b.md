@@ -7,7 +7,7 @@ At first glance, the armor in Draconic Evolution may seem to have fairly underwh
 
 Some pieces of the armor also provide some buffs which can, of course, be configured via the DE config GUI.
 
-Wearing full wyvern armor gives 100% fire resistance.  
+Wearing full Wyvern armor enables the wearer to be immune to all fire damage.  
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §img[https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/Armor/Wyvern%20Armor.jpg]{width:30%} 

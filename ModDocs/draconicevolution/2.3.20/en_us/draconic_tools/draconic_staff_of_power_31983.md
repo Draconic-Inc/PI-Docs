@@ -10,16 +10,16 @@ But Stronger!
 
 §b§nStats
 
-§648 Million RF capacity upgradeable to 768 Million.
+§648M max RF - Upgradable to 768M.
 
-§65x5 base mining AOE. Upgradable to 11x11
+§65x5 base mining AOE - Upgradable to 11x11.
 
-§65 block dig depth. Upgradable to 11
+§65 block dig depth - Upgradable to 11.
 
-§660 base Attack. Upgradable to 105
-It should be noted that because this is such a large heavy weapon the attack speed is fairly slow.
+§660 base Attack - Upgradable to 105.
+It should be noted that because this is such a large, heavy weapon, the attack speed is fairly low.
 
-§65x5 base attack radius. Upgradable to 17x17
+§65x5 base attack radius - Upgradable to 17x17.
 Note the AOE attack only works when the sword is fully charged.
 (Referring to the new vanilla charging mechanic)
 
