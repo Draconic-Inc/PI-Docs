@@ -193,22 +193,22 @@
         {
           "type": "stack",
           "draw_hover": false,
-		  "icon_string": "draconicevolution:awakened_core"
+          "icon_string": "draconicevolution:awakened_core"
         },
         {
           "type": "stack",
           "draw_hover": false,
-		  "icon_string": "draconicevolution:chaotic_core"
+          "icon_string": "draconicevolution:chaotic_core"
         },
         {
           "type": "stack",
           "draw_hover": false,
-		  "icon_string": "draconicevolution:wyvern_energy_core"
+          "icon_string": "draconicevolution:wyvern_energy_core"
         },
         {
           "type": "stack",
           "draw_hover": false,
-		  "icon_string": "draconicevolution:draconic_energy_core"
+          "icon_string": "draconicevolution:draconic_energy_core"
         }
       ],
       "pages": [

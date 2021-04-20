@@ -8,7 +8,7 @@ Fusion crafting is a process that uses large amounts of energy to combine, or "f
 #####§nHow It Works
 
 ######§nRecipes
-Each recipe requires 3 things:
+Each recipe requires 3 things:
 
 A Catalyst
 Fusion Ingredients
@@ -25,7 +25,7 @@ The tier of your setup is determined by the crafting injectors that hold your fu
 
 ######§nCrafting
 §o(Just sit back and enjoy the show!)§r
-There are 2 different crafting stages: Charging and Crafting
+There are 2 different crafting stages: Charging and Crafting.
 
 During the charging stage, all active injectors need power to charge. Once charging is complete, the crafting process starts.
 The crafting stage will run for a few seconds after which the result of the crafting will be deposited in the output slot of the core.

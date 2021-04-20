@@ -12,12 +12,11 @@ The Draconium chest is probably one of the most versatile storage devices around
 
 The built-in furnace is no ordinary furnace. For starters, it can smelt 5 items at a time at a very reasonable speed.
 
-If that wasn't enough for your needs, then it can be upgraded! By simply placing a Wyvern, Awakened or Chaotic core
-in the furnace upgrade slot, you can make it even faster!
+If that wasn't enough for your needs, then it can be upgraded! By simply placing a Wyvern, Awakened or Chaotic core in the furnace upgrade slot, you can make it even faster!
 
 If that still wasn't enough, as long as there is a Wyvern core or better in the upgrade slot, the furnace will double ores!
 
-It should be noted that while increasing the speed, this also increases the energy consumption quite a lot more than it decreases the process time.
+It should be noted that while increasing the speed, this also increases the energy consumption quite a lot more than it decreases the process time.
 
 It should also be noted that when upgraded, the core is not actually consumed and can be removed at any time.
 
@@ -74,9 +73,9 @@ Region 2 only allows items to be extracted from the right side of the chest and 
 
 Now when you pump items into the left side on the chest they will go to region 1, get smelted and then output to region 2 ready to be extracted from the right side of the chest.
 
-§6If ALL that wasn't enough for you,§r
-the chest stores its inventory when broken,
-and you can make it any colour you want!!!
+§6If ALL that wasn't enough for you...§r
+The chest stores its inventory when broken, and you can make it any color you want!
+
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:draconium_chest]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}

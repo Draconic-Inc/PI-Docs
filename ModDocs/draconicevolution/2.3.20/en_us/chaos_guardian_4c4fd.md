@@ -9,15 +9,15 @@ A Chaos island is a formation of end stone and obsidian reformed and corrupted b
 
 Chaos islands are protected by one of the most powerful mobs in existence: the Chaos Guardian. These guardians were once ender dragons, but exposure to the dark energy of the chaos islands has mutated them into some of the deadliest killing machines of all time.
 
-The various attacks of the Chaos Guardian will cut through almost any armor, one exception being draconic armor with its ability to block piercing damage. However, the guardian also has the ability to rapidly drain any RF powered armor of its charge so it will quickly render any RF powered armor useless if you don't keep it charged.
+The various attacks of the Chaos Guardian will pierce through any armor, though any armor with a §link[draconicevolution:draconic_energy_shield]{alt_text:"Draconic Energy Shield"} will block all of the damage for you. The guardian also has the ability to rapidly drain any RF powered armor of its charge, so it will quickly render any RF powered armor useless if you don't keep it charged. This includes Wyvern and Draconic Armor.
 
-Like the ender dragon, the guardian has several healing crystals spread around the island. Unlike regular ender crystals, these crystals are not so easy to destroy. They each have 50 hit points and when damaged will protect themselves with a shield for several seconds. You must disable all of the crystals before the guardian can be damaged.
+Like the Ender Dragon, the Chaos Guardian has several healing crystals spread around the island. Unlike regular ender crystals, these crystals are not so easy to destroy. They each have 50 hit points, and when damaged, will protect themselves with a shield for several seconds. You must disable all of the crystals before the guardian can be damaged.
 
 Be aware that when low on health, the guardian will occasionally try to re-ignite some of the disabled crystals.
 
-Once the guardian is defeated, you can claim your reward. At the center of the island and several blocks below the surface, you will find a chaos chamber containing a chaos crystal. When broken, the chaos crystal will drop 5 chaos shards.
+Once the guardian is defeated, you can claim your reward. At the center of the island and several blocks below the surface, you will find a chaos chamber containing a Chaos Crystal. When broken, the Chaos Crystal will drop 5 Chaos Shards.
 
-§4Be Warned!§r When you destroy the crystal, the energy field it was generating will collapse. This will result in the total annihilation of the island within a matter of seconds. Unless you are wearing full draconic armor, you will only have a few seconds to collect the shards and escape the island before you are obliterated along with the island.
+§4Be Warned!§r When you destroy the crystal, the energy field it was generating will collapse. This will result in the total annihilation of the island within a matter of seconds. Even if you are wearing full Draconic Armor, you will only have a few seconds to collect the shards and escape the island before you are obliterated along with the island.
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §img[http://ss.brandon3055.com/e05e8]{width:80%}

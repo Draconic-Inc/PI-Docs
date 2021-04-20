@@ -75,7 +75,7 @@ When you hit the stop button, the reactor will immediately stop outputing power 
 
 At this point, fusion has stopped and the containment field can shut down. Once the core cools sufficiently you will be able to refuel or dismantle the reactor.
 
-§4[WARNING]§4 Even now, its still not safe to dismantle the reactor until the temperature drops bellow 300c! If you do... Well, fusion has stopped at this point so the result won't exactly be nuclear, but dropping a giant ball of super heated draconium on the floor will still make one hell of a mess!  Not to mention the fact that you'll have to replace the broken core.
+§4[WARNING]§4 Even now, its still not safe to dismantle the reactor until the temperature drops below 300c! If you do... Well, fusion has stopped at this point so the result won't exactly be nuclear, but dropping a giant ball of super heated draconium on the floor will still make one hell of a mess!  Not to mention the fact that you'll have to replace the broken core.
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
@@ -83,7 +83,7 @@ At this point, fusion has stopped and the containment field can shut down. Once 
 
 This is the status message you never want to see. If you do end up in this situation, well... I can only hope you have a good pair of running shoes!
 
-This mode is also pretty self-explanatory. It's about to go BOOM! It will take anywhere from a few seconds to several minutes to calculate exactly how long you have before detonation. Once that calculation is complete, the GUI will give you a nice little ETA. This will usually be around a minute or two but you really shouldn't stick around to watch the fireworks...
+This mode is also pretty self-explanatory. It's about to go BOOM! It will take anywhere from a few seconds to several minutes to calculate exactly how long you have before detonation. Once that calculation is complete, the GUI will give you a nice little ETA. This will usually be around a minute or two, but you really shouldn't stick around to watch the fireworks...
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 //========================================================

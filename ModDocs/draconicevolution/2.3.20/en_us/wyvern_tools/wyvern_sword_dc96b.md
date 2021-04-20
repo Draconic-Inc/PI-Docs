@@ -12,8 +12,8 @@
 
 §6Attack radius can be upgraded to 5x5.
 
-Note the AOE attack only works when the sword is fully charged.
-(Referring to the new vanilla charging mechanic)
+Note: the AOE attack only works when the sword is fully charged.
+(Referring to the vanilla charging/cooldown mechanic)
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:wyvern_sword]{spacing:2}

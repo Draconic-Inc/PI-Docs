@@ -17,7 +17,7 @@ Will automatically fire when the bow is fully charged.
 
 §6Explosion Power
 Allows you to make your arrow explosive.
-Max power is equivalent to TNT.
+Max power is equivalent to TNT.
 
 §6Arrow of Draconic Fire
 Switch to firing an arrow composed of pure Draconic energy! 

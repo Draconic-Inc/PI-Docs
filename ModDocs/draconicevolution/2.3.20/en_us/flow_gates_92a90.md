@@ -16,7 +16,7 @@ Finally, there is a "Flow" value displayed at the bottom of the screen. This sho
 §recipe[draconicevolution:flow_gate]{spacing:2}§recipe[draconicevolution:flow_gate,1,8]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}
 ###### §nComputer Control
-Flow gates can also be controlled using ComputerCraft or Open Computers. You can find a list of avalible peripheral methods bellow.
+Flow gates can also be controlled using ComputerCraft or Open Computers. You can find a list of avalible peripheral methods below.
 
 §ngetFlow
 §rule{height:3,padding:0}

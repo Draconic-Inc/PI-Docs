@@ -13,6 +13,6 @@ This is the lowest tier core used in a lot of basic crafting recipes.
 
 Side note: A better name for this would be something along the lines of "Basic Core".
 
-The name "Draconic Core" has been caried over from the early days of DE, before the higher teir cores were introduced.  To avoid confusion, it's best to just think of this as the "Basic Core".
+The name "Draconic Core" has been caried over from the early days of DE, before the higher tier cores were introduced.  To avoid confusion, it's best to just think of this as the "Basic Core".
 
 It will be renamed in the 1.16 update.

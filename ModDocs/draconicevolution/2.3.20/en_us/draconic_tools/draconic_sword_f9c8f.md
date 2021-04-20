@@ -9,7 +9,9 @@
 §616M RF capacity - Upgradable to 256M.
 
 §63x3 base attack radius - Upgradable to 13x13.
-Note: The AOE attack only works when the sword is fully charged (meaning the recharge time after you swing the sword has expired, referring to the new vanilla charging mechanic).
+Note: The AOE attack only works when the sword is fully charged.
+(Referring to the new vanilla charging mechanic)
+
 
 §635 base Attack - Upgradable to 61.25.
 

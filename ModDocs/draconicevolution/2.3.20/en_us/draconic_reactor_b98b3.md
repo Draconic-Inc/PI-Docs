@@ -12,7 +12,7 @@ You want power? A ludicrous amount of power? Well, you have come to the right pl
 §rule{colour:0x606060,height:3,width:100%}
 To get started, you will need the Reactor Core itself, 4 Reactor Stabilizers and a Reactor Energy Injector. You will also need at least 2 §link[draconicevolution:flow_gates]{alt_text:"Flux Gates"} to regulate the reactor.
 
-The reactor layout is fairly simple. The reactor core goes in the center with the 4 stabilizers placed in a ring around it. The stabilizers can be placed in a horizontal ring around the reactor as shown in the picture above or they can be in a vertical ring with stabilizers above and below the reactor (similar to the stabilizer placement for the energy core).
+The reactor layout is fairly simple. The reactor core goes in the center with the 4 stabilizers placed in a ring around it. The stabilizers can be placed in a horizontal ring around the reactor as shown in the picture above or they can be in a vertical ring with stabilizers above and below the reactor (similar to the stabilizer placement for the energy core).
 
 Next, place the energy injector on one of the remaining 2 sides facing the core. For a max size reactor, the stabilizers and injectors should be at least 4 blocks away from the reactor. As the reactor heats up, it will expand. If it colides with the injector or stabilizers, they will be destroyed and will result in a catastrophic falure.
 
