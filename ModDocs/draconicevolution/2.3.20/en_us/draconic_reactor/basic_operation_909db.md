@@ -12,6 +12,7 @@ Let's start by taking a look at the reactor GUI.
 In the top section, there are 4 gauges that give critical information about the reactor status. From left to right they are:
 §rule{height:3,padding:0}
 §nTemperature:§n Pretty self explanitory! This is the temperature of the core. Keep this below 8000, and you are golden!
+
 §rule{height:3,padding:0}
 §nShield Strength:§n This is the strength of the shield preventing the reactor from exploding! You will want to find a nice balance for this. Too high and the shield will consume more power than the reactor generates. Too low and you risk §4catastrophic faliure§4.
 §rule{height:3,padding:0}
@@ -60,6 +61,7 @@ The higher the core temperature, the faster the reactor will burn fuel. The fusi
 As the level of chaos within the core increases, so does the reactivity of the Awakened Draconium. This higher reactivity increases the efficiency of the reactor and means that over time, you will be able to pull more and more power from the reactor while maintaining a stable temperature. This will increase to several million RF/t before you need to refuel the reactor.
 
 §4[WARNING]§4 You MUST shut down and refuel the reactor BEFORE the conversion level reaches 100%! The chaos element is highly unstable and without some amount of Awakened Draconoum in the core it CANNOT be regulated. This will result in a runaway thermal reaction that can not be stopped! The core temperature will increase uncontrollably until the containment field fails, resulting in a catastrophic explosion.
+
 
 §rule{colour:0x606060,height:1,width:100%}
 //-------------------------------------------------------------------------------------------------- 
