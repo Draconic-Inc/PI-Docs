@@ -2,7 +2,7 @@
 //§rule{colour:0x606060,height:3,width:100%}
 
 §n§6Covers1624§b§n
-就DE 1.10+而言，Covers1624是最大的DE贡献者。 他在CCL方面的工作的帮助，这使得1.10+中很多花哨的渲染成为可能！他对一些DE代码也有很大的帮助。他是一个伟大的家伙和一个非常好的朋友！
+就DE 1.10+而言，Covers1624是最大的DE贡献者。他在CCL方面的工作的帮助使得1.10+中很多花哨的渲染成为可能！他对一些DE代码也有很大的帮助。他是一个伟大的家伙和一个非常好的朋友！
 §link[https://twitter.com/covers1624]{alt_text:"Twitter",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla} §link[https://www.twitch.tv/covers1624]{alt_text:"Twitch",colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:4,link_style:vanilla}
 §rule{colour:0x606060,height:3,width:100%}
 

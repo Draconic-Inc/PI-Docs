@@ -47,7 +47,7 @@ Enchanted diamond armor? Ha! You would probably have better luck wrapping yourse
 §table{width:100%,render_cells:false} 
 <table column_layout="1*,130">
 <tr>
-	<td>I would like to thank averyone who has created spotlights for this mod! You can find a list of mod spotlights by following this link.</td>
+	<td>I would like to thank everyone who has created spotlights for this mod! You can find a list of mod spotlights by following this link.</td>
 	<td align="middle right">§link[draconicevolution:spotlights]{alt_text:Mod Spotlights,colour:0xE0E0E0,colour_hover:0xFFFFA0,padding:5,left_pad:12,right_pad:13,link_style:vanilla}</td>
 </tr>
 </table>
