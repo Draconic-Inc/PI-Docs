@@ -11,5 +11,5 @@ In their default configuration these tools are just a little more effective than
 §recipe[draconicevolution:chaotic_axe]{spacing:2}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}
 
-§entity[player:brandon3055]{size:80,rotate_speed:1.0,main_hand:"draconicevolution:wyvern_axe"}§entity[player:brandon3055]{size:80,rotate_speed:1.0,main_hand:"draconicevolution:draconic_axe"}§entity[player:brandon3055]{size:80,rotate_speed:1.0,main_hand:"draconicevolution:chaotic_pickaxechaotic_axe}
+§entity[player:brandon3055]{size:80,rotate_speed:1.0,main_hand:"draconicevolution:wyvern_axe"}§entity[player:brandon3055]{size:80,rotate_speed:1.0,main_hand:"draconicevolution:draconic_axe"}§entity[player:brandon3055]{size:80,rotate_speed:1.0,main_hand:"draconicevolution:chaotic_axe"}
 §rule{colour:0x606060,height:3,width:100%,top_pad:3}
