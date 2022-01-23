@@ -1,6 +1,6 @@
 §align:center
 ##### §nChaos Guardian§n
-[§4TODO This needs to be updates§4]
+[§4TODO This needs to be updated§4]
 §entity[draconicevolution:draconic_guardian]{size:64,scale:3,rotate_speed:1}
  
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}

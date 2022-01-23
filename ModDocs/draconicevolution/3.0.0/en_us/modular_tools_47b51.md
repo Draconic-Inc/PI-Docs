@@ -5,25 +5,25 @@ For information on the new module system please see the §link[draconicevolution
 §rule{colour:0x606060,height:2,width:100%}
 ###### §nBasic Tools§n
 §table{border_colour:0x606060,width:100%,padding:2,colour:0x0}
-| §lTier§l | §lGrid Size§l |
+| §7§lTier§l | §7§lGrid Size§l |
 | :---- | :-------- | 
-| §5Wivern§5		| 4 x 4, 16 slots total |
-| §6Draconic§6	| 6 x 5, 30 slots total |
-| §4Chaotic§4		| 8 x 6, 48 slots total |
+| §5Wyvern§5		| §74 x 4, 16 slots total |
+| §6Draconic§6	| §76 x 5, 30 slots total |
+| §4Chaotic§4		| §78 x 6, 48 slots total |
 
 ###### §nCapacitors§n
 §table{border_colour:0x606060,width:100%,padding:2,colour:0x0}
-| §lTier§l | §lGrid Size§l |
+| §7§lTier§l | §7§lGrid Size§l |
 | :---- | :-------- | 
-| §5Wivern§5		| 4 x 4, 16 slots total |
-| §6Draconic§6	| 5 x 5, 25 slots total |
-| §4Chaotic§4		| 8 x 6, 48 slots total |
+| §5Wyvern§5		| §74 x 4, 16 slots total |
+| §6Draconic§6	| §75 x 5, 25 slots total |
+| §4Chaotic§4		| §78 x 6, 48 slots total |
 
 ###### §nStaff of Power§n
 §table{border_colour:0x606060,width:100%,padding:2,colour:0x0}
-| §lTier§l | §lGrid Size§l |
+| §7§lTier§l | §7§lGrid Size§l |
 | :---- | :-------- | 
-| §6Draconic§6	| 8 x 6, 48 slots total |
-| §4Chaotic§4		| 10 x 8, 80 slots total |
+| §6Draconic§6	| §78 x 6, 48 slots total |
+| §4Chaotic§4		| §710 x 8, 80 slots total |
 
 §rule{colour:0x606060,height:2,width:100%}

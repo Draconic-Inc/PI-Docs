@@ -8,13 +8,13 @@ Introducing the new and improved draconic generator! Now you can choose whether 
 
 ###### §nOperating Modes§n
 §table{border_colour:0x606060,width:100%,padding:2,colour:0x0}
-| Mode | Power Output | Fuel Efficiency |
+| §7Mode | §7Power Output | §7Fuel Efficiency |
 | :---- | :---- | :---- |
-| Eco Plus 		| 5 OP/t 	| 500%	|
-| Eco 			| 20 OP/t 	| 150%	|
-| Normal 		| 40 OP/t 	| 100%	|
-| Performance	| 80 OP/t 	| 80% 	|
-| Overdrive 	| 300 OP/t	| 50% 	|
+| §7Eco Plus 		| §75 OP/t 		| §7500%	|
+| §7Eco 			| §720 OP/t 	| §7150%	|
+| §7Normal 		| §740 OP/t 	| §7100%	|
+| §7Performance	| §780 OP/t 	| §780% 	|
+| §7Overdrive 		| §7300 OP/t	| §750% 	|
 
 §rule{colour:0x606060,height:3,width:100%,top_pad:0}
 §recipe[draconicevolution:generator]{spacing:2}
